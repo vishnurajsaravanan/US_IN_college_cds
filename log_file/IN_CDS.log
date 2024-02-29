@@ -1,0 +1,1452 @@
+2024-02-29 23:02:48,627 - INFO - Successfully scraped Google results for keyword: IIT Madras - Indian Institute of Technology
+2024-02-29 23:02:48,627 - ERROR - Error scraping Google results for keyword: IIT Madras - Indian Institute of Technology, error: list index out of range
+2024-02-29 23:02:52,542 - INFO - Successfully scraped Google results for keyword: IIT Delhi - Indian Institute of Technology
+2024-02-29 23:02:52,542 - ERROR - Error scraping Google results for keyword: IIT Delhi - Indian Institute of Technology, error: list index out of range
+2024-02-29 23:02:56,642 - INFO - Successfully scraped Google results for keyword: IIT Bombay - Indian Institute of Technology
+2024-02-29 23:02:56,642 - ERROR - Error scraping Google results for keyword: IIT Bombay - Indian Institute of Technology, error: list index out of range
+2024-02-29 23:03:00,428 - INFO - Successfully scraped Google results for keyword: IIT Kanpur - Indian Institute of Technology
+2024-02-29 23:03:00,428 - ERROR - Error scraping Google results for keyword: IIT Kanpur - Indian Institute of Technology, error: list index out of range
+2024-02-29 23:03:04,365 - INFO - Successfully scraped Google results for keyword: IIT Kharagpur - Indian Institute of Technology
+2024-02-29 23:03:04,365 - ERROR - Error scraping Google results for keyword: IIT Kharagpur - Indian Institute of Technology, error: list index out of range
+2024-02-29 23:03:07,903 - INFO - Successfully scraped Google results for keyword: IIT Roorkee - Indian Institute of Technology
+2024-02-29 23:03:07,903 - ERROR - Error scraping Google results for keyword: IIT Roorkee - Indian Institute of Technology, error: list index out of range
+2024-02-29 23:03:11,867 - INFO - Successfully scraped Google results for keyword: IIT Guwahati - Indian Institute of Technology
+2024-02-29 23:03:11,868 - ERROR - Error scraping Google results for keyword: IIT Guwahati - Indian Institute of Technology, error: list index out of range
+2024-02-29 23:03:16,143 - INFO - Successfully scraped Google results for keyword: NIT Trichy - National Institute of Technology Tiruchirappalli
+2024-02-29 23:03:16,143 - ERROR - Error scraping Google results for keyword: NIT Trichy - National Institute of Technology Tiruchirappalli, error: list index out of range
+2024-02-29 23:03:20,105 - INFO - Successfully scraped Google results for keyword: IIT Hyderabad - Indian Institute of Technology
+2024-02-29 23:03:20,105 - ERROR - Error scraping Google results for keyword: IIT Hyderabad - Indian Institute of Technology, error: list index out of range
+2024-02-29 23:03:24,046 - INFO - Successfully scraped Google results for keyword: NIT Surathkal - National Institute of Technology Karnataka
+2024-02-29 23:03:24,046 - ERROR - Error scraping Google results for keyword: NIT Surathkal - National Institute of Technology Karnataka, error: list index out of range
+2024-02-29 23:03:27,930 - INFO - Successfully scraped Google results for keyword: Jadavpur University, Kolkata
+2024-02-29 23:03:27,930 - ERROR - Error scraping Google results for keyword: Jadavpur University, Kolkata, error: list index out of range
+2024-02-29 23:03:31,845 - INFO - Successfully scraped Google results for keyword: VIT Vellore - Vellore Institute of Technology
+2024-02-29 23:03:31,845 - ERROR - Error scraping Google results for keyword: VIT Vellore - Vellore Institute of Technology, error: list index out of range
+2024-02-29 23:03:35,692 - INFO - Successfully scraped Google results for keyword: IIT BHU - Indian Institute of Technology Banaras Hindu University
+2024-02-29 23:03:35,692 - ERROR - Error scraping Google results for keyword: IIT BHU - Indian Institute of Technology Banaras Hindu University, error: list index out of range
+2024-02-29 23:03:40,380 - INFO - Successfully scraped Google results for keyword: IIT Dhanbad - Indian Institute of Technology Indian School of Mines
+2024-02-29 23:03:40,380 - ERROR - Error scraping Google results for keyword: IIT Dhanbad - Indian Institute of Technology Indian School of Mines, error: list index out of range
+2024-02-29 23:03:44,551 - INFO - Successfully scraped Google results for keyword: NIT Rourkela - National Institute of Technology
+2024-02-29 23:03:44,551 - ERROR - Error scraping Google results for keyword: NIT Rourkela - National Institute of Technology, error: list index out of range
+2024-02-29 23:03:48,480 - INFO - Successfully scraped Google results for keyword: IIT Indore - Indian Institute of Technology
+2024-02-29 23:03:48,480 - ERROR - Error scraping Google results for keyword: IIT Indore - Indian Institute of Technology, error: list index out of range
+2024-02-29 23:03:53,138 - INFO - Successfully scraped Google results for keyword: Anna University, Chennai
+2024-02-29 23:03:53,138 - ERROR - Error scraping Google results for keyword: Anna University, Chennai, error: list index out of range
+2024-02-29 23:03:56,993 - INFO - Successfully scraped Google results for keyword: ICT Mumbai - Institute of Chemical Technology
+2024-02-29 23:03:56,993 - ERROR - Error scraping Google results for keyword: ICT Mumbai - Institute of Chemical Technology, error: list index out of range
+2024-02-29 23:04:00,917 - INFO - Successfully scraped Google results for keyword: Amrita Vishwa Vidyapeetham, Coimbatore
+2024-02-29 23:04:00,917 - ERROR - Error scraping Google results for keyword: Amrita Vishwa Vidyapeetham, Coimbatore, error: list index out of range
+2024-02-29 23:04:05,125 - INFO - Successfully scraped Google results for keyword: IIT Mandi - Indian Institute of Technology
+2024-02-29 23:04:05,125 - ERROR - Error scraping Google results for keyword: IIT Mandi - Indian Institute of Technology, error: list index out of range
+2024-02-29 23:04:09,128 - INFO - Successfully scraped Google results for keyword: NIT Warangal - National Institute of Technology
+2024-02-29 23:04:09,128 - ERROR - Error scraping Google results for keyword: NIT Warangal - National Institute of Technology, error: list index out of range
+2024-02-29 23:04:12,954 - INFO - Successfully scraped Google results for keyword: IIT Ropar - Indian Institute of Technology
+2024-02-29 23:04:12,955 - ERROR - Error scraping Google results for keyword: IIT Ropar - Indian Institute of Technology, error: list index out of range
+2024-02-29 23:04:17,059 - INFO - Successfully scraped Google results for keyword: IIT Gandhinagar - Indian Institute of Technology
+2024-02-29 23:04:17,059 - ERROR - Error scraping Google results for keyword: IIT Gandhinagar - Indian Institute of Technology, error: list index out of range
+2024-02-29 23:04:21,156 - INFO - Successfully scraped Google results for keyword: SRM University Chennai - SRM Institute of Science and Technology
+2024-02-29 23:04:21,156 - ERROR - Error scraping Google results for keyword: SRM University Chennai - SRM Institute of Science and Technology, error: list index out of range
+2024-02-29 23:04:24,848 - INFO - Successfully scraped Google results for keyword: Amity University, Noida
+2024-02-29 23:04:24,849 - ERROR - Error scraping Google results for keyword: Amity University, Noida, error: list index out of range
+2024-02-29 23:05:24,712 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:25,195 - INFO - Successfully scraped Google results for college: IIT Madras - Indian Institute of Technology
+2024-02-29 23:05:25,197 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:25,957 - INFO - Successfully scraped Google results for college: IIT Delhi - Indian Institute of Technology
+2024-02-29 23:05:25,959 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:26,446 - INFO - Successfully scraped Google results for college: IIT Bombay - Indian Institute of Technology
+2024-02-29 23:05:26,448 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:27,059 - INFO - Successfully scraped Google results for college: IIT Kanpur - Indian Institute of Technology
+2024-02-29 23:05:27,061 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:27,569 - INFO - Successfully scraped Google results for college: IIT Kharagpur - Indian Institute of Technology
+2024-02-29 23:05:27,571 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:28,079 - INFO - Successfully scraped Google results for college: IIT Roorkee - Indian Institute of Technology
+2024-02-29 23:05:28,081 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:28,656 - INFO - Successfully scraped Google results for college: IIT Guwahati - Indian Institute of Technology
+2024-02-29 23:05:28,658 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:29,307 - INFO - Successfully scraped Google results for college: NIT Trichy - National Institute of Technology Tiruchirappalli
+2024-02-29 23:05:29,309 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:29,750 - INFO - Successfully scraped Google results for college: IIT Hyderabad - Indian Institute of Technology
+2024-02-29 23:05:29,751 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:30,168 - INFO - Successfully scraped Google results for college: NIT Surathkal - National Institute of Technology Karnataka
+2024-02-29 23:05:30,170 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:30,742 - INFO - Successfully scraped Google results for college: Jadavpur University, Kolkata
+2024-02-29 23:05:30,744 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:31,378 - INFO - Successfully scraped Google results for college: VIT Vellore - Vellore Institute of Technology
+2024-02-29 23:05:31,380 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:31,981 - INFO - Successfully scraped Google results for college: IIT BHU - Indian Institute of Technology Banaras Hindu University
+2024-02-29 23:05:31,983 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:32,590 - INFO - Successfully scraped Google results for college: IIT Dhanbad - Indian Institute of Technology Indian School of Mines
+2024-02-29 23:05:32,592 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:33,099 - INFO - Successfully scraped Google results for college: NIT Rourkela - National Institute of Technology
+2024-02-29 23:05:33,101 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:33,816 - INFO - Successfully scraped Google results for college: IIT Indore - Indian Institute of Technology
+2024-02-29 23:05:33,818 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:34,329 - INFO - Successfully scraped Google results for college: Anna University, Chennai
+2024-02-29 23:05:34,330 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:35,041 - INFO - Successfully scraped Google results for college: ICT Mumbai - Institute of Chemical Technology
+2024-02-29 23:05:35,042 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:35,660 - INFO - Successfully scraped Google results for college: Amrita Vishwa Vidyapeetham, Coimbatore
+2024-02-29 23:05:35,662 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:36,169 - INFO - Successfully scraped Google results for college: IIT Mandi - Indian Institute of Technology
+2024-02-29 23:05:36,170 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:36,786 - INFO - Successfully scraped Google results for college: NIT Warangal - National Institute of Technology
+2024-02-29 23:05:36,788 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:37,360 - INFO - Successfully scraped Google results for college: IIT Ropar - Indian Institute of Technology
+2024-02-29 23:05:37,362 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:37,908 - INFO - Successfully scraped Google results for college: IIT Gandhinagar - Indian Institute of Technology
+2024-02-29 23:05:37,910 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:38,595 - INFO - Successfully scraped Google results for college: SRM University Chennai - SRM Institute of Science and Technology
+2024-02-29 23:05:38,596 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:39,084 - INFO - Successfully scraped Google results for college: Amity University, Noida
+2024-02-29 23:05:39,085 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:39,758 - INFO - Successfully scraped Google results for college: JMI New Delhi - Jamia Millia Islamia
+2024-02-29 23:05:39,759 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:05:40,308 - INFO - Successfully scraped Google results for college: Siksha 'O' Anusandhan, Bhubaneswar
+2024-02-29 23:05:40,310 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:23,892 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:24,486 - INFO - Successfully scraped Google results for college: IIT Madras - Indian Institute of Technology
+2024-02-29 23:07:24,487 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:25,532 - INFO - Successfully scraped Google results for college: IIT Delhi - Indian Institute of Technology
+2024-02-29 23:07:25,534 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:26,561 - INFO - Successfully scraped Google results for college: IIT Bombay - Indian Institute of Technology
+2024-02-29 23:07:26,563 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:27,069 - INFO - Successfully scraped Google results for college: IIT Kanpur - Indian Institute of Technology
+2024-02-29 23:07:27,070 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:27,993 - INFO - Successfully scraped Google results for college: IIT Kharagpur - Indian Institute of Technology
+2024-02-29 23:07:27,995 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:28,543 - INFO - Successfully scraped Google results for college: IIT Roorkee - Indian Institute of Technology
+2024-02-29 23:07:28,545 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:29,117 - INFO - Successfully scraped Google results for college: IIT Guwahati - Indian Institute of Technology
+2024-02-29 23:07:29,119 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:29,730 - INFO - Successfully scraped Google results for college: NIT Trichy - National Institute of Technology Tiruchirappalli
+2024-02-29 23:07:29,732 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:30,274 - INFO - Successfully scraped Google results for college: IIT Hyderabad - Indian Institute of Technology
+2024-02-29 23:07:30,276 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:30,755 - INFO - Successfully scraped Google results for college: NIT Surathkal - National Institute of Technology Karnataka
+2024-02-29 23:07:30,756 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:31,268 - INFO - Successfully scraped Google results for college: Jadavpur University, Kolkata
+2024-02-29 23:07:31,269 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:31,714 - INFO - Successfully scraped Google results for college: VIT Vellore - Vellore Institute of Technology
+2024-02-29 23:07:31,716 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:32,397 - INFO - Successfully scraped Google results for college: IIT BHU - Indian Institute of Technology Banaras Hindu University
+2024-02-29 23:07:32,398 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:32,846 - INFO - Successfully scraped Google results for college: IIT Dhanbad - Indian Institute of Technology Indian School of Mines
+2024-02-29 23:07:32,848 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:33,723 - INFO - Successfully scraped Google results for college: NIT Rourkela - National Institute of Technology
+2024-02-29 23:07:33,724 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:34,199 - INFO - Successfully scraped Google results for college: IIT Indore - Indian Institute of Technology
+2024-02-29 23:07:34,200 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:34,793 - INFO - Successfully scraped Google results for college: Anna University, Chennai
+2024-02-29 23:07:34,794 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:35,470 - INFO - Successfully scraped Google results for college: ICT Mumbai - Institute of Chemical Technology
+2024-02-29 23:07:35,471 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:35,978 - INFO - Successfully scraped Google results for college: Amrita Vishwa Vidyapeetham, Coimbatore
+2024-02-29 23:07:35,980 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:36,553 - INFO - Successfully scraped Google results for college: IIT Mandi - Indian Institute of Technology
+2024-02-29 23:07:36,555 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:37,107 - INFO - Successfully scraped Google results for college: NIT Warangal - National Institute of Technology
+2024-02-29 23:07:37,107 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:37,585 - INFO - Successfully scraped Google results for college: IIT Ropar - Indian Institute of Technology
+2024-02-29 23:07:37,586 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:38,019 - INFO - Successfully scraped Google results for college: IIT Gandhinagar - Indian Institute of Technology
+2024-02-29 23:07:38,021 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:38,540 - INFO - Successfully scraped Google results for college: SRM University Chennai - SRM Institute of Science and Technology
+2024-02-29 23:07:38,541 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:39,049 - INFO - Successfully scraped Google results for college: Amity University, Noida
+2024-02-29 23:07:39,050 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:39,666 - INFO - Successfully scraped Google results for college: JMI New Delhi - Jamia Millia Islamia
+2024-02-29 23:07:39,668 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:40,156 - INFO - Successfully scraped Google results for college: Siksha 'O' Anusandhan, Bhubaneswar
+2024-02-29 23:07:40,158 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:40,793 - INFO - Successfully scraped Google results for college: Thapar University - Thapar Institute of Engineering and Technology
+2024-02-29 23:07:40,794 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:41,320 - INFO - Successfully scraped Google results for college: BITS Pilani - Birla Institute of Technology and Science
+2024-02-29 23:07:41,323 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:42,759 - INFO - Successfully scraped Google results for college: IIT Jodhpur - Indian Institute of Technology
+2024-02-29 23:07:42,761 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:07:43,361 - INFO - Successfully scraped Google results for college: NIT Calicut - National Institute of Technology
+2024-02-29 23:07:43,363 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:09:29,770 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:09:30,568 - INFO - Successfully scraped Google results for college: IIT Madras - Indian Institute of Technology
+2024-02-29 23:09:30,569 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:09:31,114 - INFO - Successfully scraped Google results for college: IIT Delhi - Indian Institute of Technology
+2024-02-29 23:09:31,116 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:09:31,693 - INFO - Successfully scraped Google results for college: IIT Bombay - Indian Institute of Technology
+2024-02-29 23:09:31,695 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:09:32,304 - INFO - Successfully scraped Google results for college: IIT Kanpur - Indian Institute of Technology
+2024-02-29 23:09:32,306 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:09:32,815 - INFO - Successfully scraped Google results for college: IIT Kharagpur - Indian Institute of Technology
+2024-02-29 23:09:32,817 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:09:33,536 - INFO - Successfully scraped Google results for college: IIT Roorkee - Indian Institute of Technology
+2024-02-29 23:09:33,539 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:09:34,149 - INFO - Successfully scraped Google results for college: IIT Guwahati - Indian Institute of Technology
+2024-02-29 23:09:34,151 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:09:34,762 - INFO - Successfully scraped Google results for college: NIT Trichy - National Institute of Technology Tiruchirappalli
+2024-02-29 23:09:34,764 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:09:35,353 - INFO - Successfully scraped Google results for college: IIT Hyderabad - Indian Institute of Technology
+2024-02-29 23:09:35,355 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:09:35,992 - INFO - Successfully scraped Google results for college: NIT Surathkal - National Institute of Technology Karnataka
+2024-02-29 23:09:35,994 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:09:36,504 - INFO - Successfully scraped Google results for college: Jadavpur University, Kolkata
+2024-02-29 23:09:36,506 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:09:37,117 - INFO - Successfully scraped Google results for college: VIT Vellore - Vellore Institute of Technology
+2024-02-29 23:09:37,119 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:09:37,732 - INFO - Successfully scraped Google results for college: IIT BHU - Indian Institute of Technology Banaras Hindu University
+2024-02-29 23:09:37,733 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:15,630 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:16,134 - ERROR - Error scraping Google results for college: IIT Madras - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:10:16,135 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:16,659 - ERROR - Error scraping Google results for college: IIT Delhi - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:10:16,660 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:17,363 - ERROR - Error scraping Google results for college: IIT Bombay - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:10:17,365 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:17,916 - ERROR - Error scraping Google results for college: IIT Kanpur - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:10:17,917 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:18,487 - ERROR - Error scraping Google results for college: IIT Kharagpur - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:10:18,489 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:19,008 - ERROR - Error scraping Google results for college: IIT Roorkee - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:10:19,010 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:19,426 - ERROR - Error scraping Google results for college: IIT Guwahati - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:10:19,428 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:20,130 - ERROR - Error scraping Google results for college: NIT Trichy - National Institute of Technology Tiruchirappalli, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:10:20,132 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:20,743 - ERROR - Error scraping Google results for college: IIT Hyderabad - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:10:20,745 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:21,265 - ERROR - Error scraping Google results for college: NIT Surathkal - National Institute of Technology Karnataka, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:10:21,266 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:31,534 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:32,314 - ERROR - Error scraping Google results for college: IIT Madras - Indian Institute of Technology, error: 'list' object has no attribute 'endswith'
+2024-02-29 23:10:32,315 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:32,851 - ERROR - Error scraping Google results for college: IIT Delhi - Indian Institute of Technology, error: 'list' object has no attribute 'endswith'
+2024-02-29 23:10:32,853 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:33,377 - ERROR - Error scraping Google results for college: IIT Bombay - Indian Institute of Technology, error: 'list' object has no attribute 'endswith'
+2024-02-29 23:10:33,379 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:34,159 - ERROR - Error scraping Google results for college: IIT Kanpur - Indian Institute of Technology, error: 'list' object has no attribute 'endswith'
+2024-02-29 23:10:34,161 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:34,582 - ERROR - Error scraping Google results for college: IIT Kharagpur - Indian Institute of Technology, error: 'list' object has no attribute 'endswith'
+2024-02-29 23:10:34,584 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:35,180 - ERROR - Error scraping Google results for college: IIT Roorkee - Indian Institute of Technology, error: 'list' object has no attribute 'endswith'
+2024-02-29 23:10:35,182 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:35,800 - ERROR - Error scraping Google results for college: IIT Guwahati - Indian Institute of Technology, error: 'list' object has no attribute 'endswith'
+2024-02-29 23:10:35,802 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:36,512 - ERROR - Error scraping Google results for college: NIT Trichy - National Institute of Technology Tiruchirappalli, error: 'list' object has no attribute 'endswith'
+2024-02-29 23:10:36,514 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:37,129 - ERROR - Error scraping Google results for college: IIT Hyderabad - Indian Institute of Technology, error: 'list' object has no attribute 'endswith'
+2024-02-29 23:10:37,131 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:43,739 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:44,190 - ERROR - Error scraping Google results for college: IIT Madras - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:10:44,192 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:44,746 - ERROR - Error scraping Google results for college: IIT Delhi - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:10:44,748 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:45,317 - ERROR - Error scraping Google results for college: IIT Bombay - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:10:45,319 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:45,933 - ERROR - Error scraping Google results for college: IIT Kanpur - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:10:45,936 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:46,341 - ERROR - Error scraping Google results for college: IIT Kharagpur - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:10:46,342 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:46,957 - ERROR - Error scraping Google results for college: IIT Roorkee - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:10:46,958 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:47,580 - ERROR - Error scraping Google results for college: IIT Guwahati - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:10:47,581 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:48,183 - ERROR - Error scraping Google results for college: NIT Trichy - National Institute of Technology Tiruchirappalli, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:10:48,185 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:48,705 - ERROR - Error scraping Google results for college: IIT Hyderabad - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:10:48,706 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:49,208 - ERROR - Error scraping Google results for college: NIT Surathkal - National Institute of Technology Karnataka, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:10:49,209 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:56,796 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:57,399 - INFO - Successfully scraped Google results for college: IIT Madras - Indian Institute of Technology
+2024-02-29 23:10:57,400 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:57,957 - INFO - Successfully scraped Google results for college: IIT Delhi - Indian Institute of Technology
+2024-02-29 23:10:57,958 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:58,412 - INFO - Successfully scraped Google results for college: IIT Bombay - Indian Institute of Technology
+2024-02-29 23:10:58,414 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:58,862 - INFO - Successfully scraped Google results for college: IIT Kanpur - Indian Institute of Technology
+2024-02-29 23:10:58,864 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:10:59,578 - INFO - Successfully scraped Google results for college: IIT Kharagpur - Indian Institute of Technology
+2024-02-29 23:10:59,580 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:00,164 - INFO - Successfully scraped Google results for college: IIT Roorkee - Indian Institute of Technology
+2024-02-29 23:11:00,165 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:00,736 - INFO - Successfully scraped Google results for college: IIT Guwahati - Indian Institute of Technology
+2024-02-29 23:11:00,738 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:01,393 - INFO - Successfully scraped Google results for college: NIT Trichy - National Institute of Technology Tiruchirappalli
+2024-02-29 23:11:01,396 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:02,008 - INFO - Successfully scraped Google results for college: IIT Hyderabad - Indian Institute of Technology
+2024-02-29 23:11:02,010 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:02,725 - INFO - Successfully scraped Google results for college: NIT Surathkal - National Institute of Technology Karnataka
+2024-02-29 23:11:02,727 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:03,445 - INFO - Successfully scraped Google results for college: Jadavpur University, Kolkata
+2024-02-29 23:11:03,447 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:04,159 - INFO - Successfully scraped Google results for college: VIT Vellore - Vellore Institute of Technology
+2024-02-29 23:11:04,160 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:04,775 - INFO - Successfully scraped Google results for college: IIT BHU - Indian Institute of Technology Banaras Hindu University
+2024-02-29 23:11:04,778 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:05,390 - INFO - Successfully scraped Google results for college: IIT Dhanbad - Indian Institute of Technology Indian School of Mines
+2024-02-29 23:11:05,391 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:05,899 - INFO - Successfully scraped Google results for college: NIT Rourkela - National Institute of Technology
+2024-02-29 23:11:05,901 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:12,260 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:12,749 - INFO - Successfully scraped Google results for college: IIT Madras - Indian Institute of Technology
+2024-02-29 23:11:12,751 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:13,374 - INFO - Successfully scraped Google results for college: IIT Delhi - Indian Institute of Technology
+2024-02-29 23:11:13,376 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:13,991 - INFO - Successfully scraped Google results for college: IIT Bombay - Indian Institute of Technology
+2024-02-29 23:11:13,993 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:14,377 - INFO - Successfully scraped Google results for college: IIT Kanpur - Indian Institute of Technology
+2024-02-29 23:11:14,378 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:14,810 - INFO - Successfully scraped Google results for college: IIT Kharagpur - Indian Institute of Technology
+2024-02-29 23:11:14,812 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:15,228 - INFO - Successfully scraped Google results for college: IIT Roorkee - Indian Institute of Technology
+2024-02-29 23:11:15,230 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:15,731 - INFO - Successfully scraped Google results for college: IIT Guwahati - Indian Institute of Technology
+2024-02-29 23:11:15,732 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:16,243 - INFO - Successfully scraped Google results for college: NIT Trichy - National Institute of Technology Tiruchirappalli
+2024-02-29 23:11:16,244 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:16,755 - INFO - Successfully scraped Google results for college: IIT Hyderabad - Indian Institute of Technology
+2024-02-29 23:11:16,757 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:17,150 - INFO - Successfully scraped Google results for college: NIT Surathkal - National Institute of Technology Karnataka
+2024-02-29 23:11:17,151 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:17,637 - INFO - Successfully scraped Google results for college: Jadavpur University, Kolkata
+2024-02-29 23:11:17,640 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:18,292 - INFO - Successfully scraped Google results for college: VIT Vellore - Vellore Institute of Technology
+2024-02-29 23:11:18,294 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:18,763 - INFO - Successfully scraped Google results for college: IIT BHU - Indian Institute of Technology Banaras Hindu University
+2024-02-29 23:11:18,765 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:19,313 - INFO - Successfully scraped Google results for college: IIT Dhanbad - Indian Institute of Technology Indian School of Mines
+2024-02-29 23:11:19,315 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:19,827 - INFO - Successfully scraped Google results for college: NIT Rourkela - National Institute of Technology
+2024-02-29 23:11:19,829 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:20,442 - INFO - Successfully scraped Google results for college: IIT Indore - Indian Institute of Technology
+2024-02-29 23:11:20,444 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:21,032 - INFO - Successfully scraped Google results for college: Anna University, Chennai
+2024-02-29 23:11:21,034 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:21,822 - INFO - Successfully scraped Google results for college: ICT Mumbai - Institute of Chemical Technology
+2024-02-29 23:11:21,824 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:22,262 - INFO - Successfully scraped Google results for college: Amrita Vishwa Vidyapeetham, Coimbatore
+2024-02-29 23:11:22,263 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:22,796 - INFO - Successfully scraped Google results for college: IIT Mandi - Indian Institute of Technology
+2024-02-29 23:11:22,798 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:23,409 - INFO - Successfully scraped Google results for college: NIT Warangal - National Institute of Technology
+2024-02-29 23:11:23,410 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:23,948 - INFO - Successfully scraped Google results for college: IIT Ropar - Indian Institute of Technology
+2024-02-29 23:11:23,950 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:24,720 - INFO - Successfully scraped Google results for college: IIT Gandhinagar - Indian Institute of Technology
+2024-02-29 23:11:24,723 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:25,358 - INFO - Successfully scraped Google results for college: SRM University Chennai - SRM Institute of Science and Technology
+2024-02-29 23:11:25,360 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:42,874 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:43,481 - ERROR - Error scraping Google results for college: IIT Madras - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:11:43,483 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:44,095 - ERROR - Error scraping Google results for college: IIT Delhi - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:11:44,096 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:44,478 - ERROR - Error scraping Google results for college: IIT Bombay - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:11:44,480 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:45,016 - ERROR - Error scraping Google results for college: IIT Kanpur - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:11:45,018 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:45,425 - ERROR - Error scraping Google results for college: IIT Kharagpur - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:11:45,427 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:45,835 - ERROR - Error scraping Google results for college: IIT Roorkee - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:11:45,837 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:46,556 - ERROR - Error scraping Google results for college: IIT Guwahati - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:11:46,557 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:46,984 - ERROR - Error scraping Google results for college: NIT Trichy - National Institute of Technology Tiruchirappalli, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:11:46,986 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:47,578 - ERROR - Error scraping Google results for college: IIT Hyderabad - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:11:47,579 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:48,090 - ERROR - Error scraping Google results for college: NIT Surathkal - National Institute of Technology Karnataka, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:11:48,093 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:48,554 - ERROR - Error scraping Google results for college: Jadavpur University, Kolkata, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:11:48,556 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:48,944 - ERROR - Error scraping Google results for college: VIT Vellore - Vellore Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:11:48,946 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:49,522 - ERROR - Error scraping Google results for college: IIT BHU - Indian Institute of Technology Banaras Hindu University, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:11:49,523 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:11:50,034 - ERROR - Error scraping Google results for college: IIT Dhanbad - Indian Institute of Technology Indian School of Mines, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:11:50,036 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:12:02,589 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:12:03,081 - ERROR - Error scraping Google results for college: IIT Madras - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:12:03,082 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:12:03,772 - ERROR - Error scraping Google results for college: IIT Delhi - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:12:03,774 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:12:04,372 - ERROR - Error scraping Google results for college: IIT Bombay - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:12:04,374 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:12:04,815 - ERROR - Error scraping Google results for college: IIT Kanpur - Indian Institute of Technology, error: 'dict' object has no attribute 'endswith'
+2024-02-29 23:12:04,817 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:15:07,616 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:15:08,226 - ERROR - Error scraping Google results for college: IIT Madras - Indian Institute of Technology, error: 'list' object has no attribute 'endswith'
+2024-02-29 23:15:08,226 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:15:08,795 - ERROR - Error scraping Google results for college: IIT Delhi - Indian Institute of Technology, error: 'list' object has no attribute 'endswith'
+2024-02-29 23:15:08,797 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:15:09,308 - ERROR - Error scraping Google results for college: IIT Bombay - Indian Institute of Technology, error: 'list' object has no attribute 'endswith'
+2024-02-29 23:15:09,310 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:15:09,703 - ERROR - Error scraping Google results for college: IIT Kanpur - Indian Institute of Technology, error: 'list' object has no attribute 'endswith'
+2024-02-29 23:15:09,704 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:14,132 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:14,646 - INFO - Successfully scraped Google results for college: IIT Madras - Indian Institute of Technology
+2024-02-29 23:17:14,648 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:15,258 - INFO - Successfully scraped Google results for college: IIT Delhi - Indian Institute of Technology
+2024-02-29 23:17:15,260 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:15,677 - INFO - Successfully scraped Google results for college: IIT Bombay - Indian Institute of Technology
+2024-02-29 23:17:15,679 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:16,285 - INFO - Successfully scraped Google results for college: IIT Kanpur - Indian Institute of Technology
+2024-02-29 23:17:16,286 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:16,698 - INFO - Successfully scraped Google results for college: IIT Kharagpur - Indian Institute of Technology
+2024-02-29 23:17:16,699 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:17,203 - INFO - Successfully scraped Google results for college: IIT Roorkee - Indian Institute of Technology
+2024-02-29 23:17:17,204 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:17,625 - INFO - Successfully scraped Google results for college: IIT Guwahati - Indian Institute of Technology
+2024-02-29 23:17:17,626 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:18,129 - INFO - Successfully scraped Google results for college: NIT Trichy - National Institute of Technology Tiruchirappalli
+2024-02-29 23:17:18,130 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:18,847 - INFO - Successfully scraped Google results for college: IIT Hyderabad - Indian Institute of Technology
+2024-02-29 23:17:18,849 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:19,355 - INFO - Successfully scraped Google results for college: NIT Surathkal - National Institute of Technology Karnataka
+2024-02-29 23:17:19,355 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:19,867 - INFO - Successfully scraped Google results for college: Jadavpur University, Kolkata
+2024-02-29 23:17:19,868 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:20,239 - INFO - Successfully scraped Google results for college: VIT Vellore - Vellore Institute of Technology
+2024-02-29 23:17:20,241 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:20,994 - INFO - Successfully scraped Google results for college: IIT BHU - Indian Institute of Technology Banaras Hindu University
+2024-02-29 23:17:20,996 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:21,607 - INFO - Successfully scraped Google results for college: IIT Dhanbad - Indian Institute of Technology Indian School of Mines
+2024-02-29 23:17:21,609 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:31,838 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:32,367 - INFO - Successfully scraped Google results for college: IIT Madras - Indian Institute of Technology
+2024-02-29 23:17:32,368 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:32,980 - INFO - Successfully scraped Google results for college: IIT Delhi - Indian Institute of Technology
+2024-02-29 23:17:32,981 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:33,487 - INFO - Successfully scraped Google results for college: IIT Bombay - Indian Institute of Technology
+2024-02-29 23:17:33,489 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:34,104 - INFO - Successfully scraped Google results for college: IIT Kanpur - Indian Institute of Technology
+2024-02-29 23:17:34,106 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:34,588 - INFO - Successfully scraped Google results for college: IIT Kharagpur - Indian Institute of Technology
+2024-02-29 23:17:34,590 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:34,956 - INFO - Successfully scraped Google results for college: IIT Roorkee - Indian Institute of Technology
+2024-02-29 23:17:34,958 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:35,433 - INFO - Successfully scraped Google results for college: IIT Guwahati - Indian Institute of Technology
+2024-02-29 23:17:35,434 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:35,929 - INFO - Successfully scraped Google results for college: NIT Trichy - National Institute of Technology Tiruchirappalli
+2024-02-29 23:17:35,931 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:36,660 - INFO - Successfully scraped Google results for college: IIT Hyderabad - Indian Institute of Technology
+2024-02-29 23:17:36,661 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:37,178 - INFO - Successfully scraped Google results for college: NIT Surathkal - National Institute of Technology Karnataka
+2024-02-29 23:17:37,178 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:17:38,214 - INFO - Successfully scraped Google results for college: Jadavpur University, Kolkata
+2024-02-29 23:17:38,216 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:18:34,511 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:18:35,041 - INFO - Successfully scraped Google results for college: IIT Madras - Indian Institute of Technology
+2024-02-29 23:18:35,043 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:18:35,542 - INFO - Successfully scraped Google results for college: IIT Delhi - Indian Institute of Technology
+2024-02-29 23:18:35,545 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:18:36,055 - INFO - Successfully scraped Google results for college: IIT Bombay - Indian Institute of Technology
+2024-02-29 23:18:36,057 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:18:36,566 - INFO - Successfully scraped Google results for college: IIT Kanpur - Indian Institute of Technology
+2024-02-29 23:18:36,568 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:18:37,079 - INFO - Successfully scraped Google results for college: IIT Kharagpur - Indian Institute of Technology
+2024-02-29 23:18:37,081 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:18:37,592 - INFO - Successfully scraped Google results for college: IIT Roorkee - Indian Institute of Technology
+2024-02-29 23:18:37,594 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:18:38,074 - INFO - Successfully scraped Google results for college: IIT Guwahati - Indian Institute of Technology
+2024-02-29 23:18:38,076 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:18:38,719 - INFO - Successfully scraped Google results for college: NIT Trichy - National Institute of Technology Tiruchirappalli
+2024-02-29 23:18:38,721 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:12,917 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:13,443 - INFO - Successfully scraped Google results for college: IIT Madras - Indian Institute of Technology
+2024-02-29 23:21:13,455 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:14,058 - INFO - Successfully scraped Google results for college: IIT Delhi - Indian Institute of Technology
+2024-02-29 23:21:14,062 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:14,674 - INFO - Successfully scraped Google results for college: IIT Bombay - Indian Institute of Technology
+2024-02-29 23:21:14,678 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:15,087 - INFO - Successfully scraped Google results for college: IIT Kanpur - Indian Institute of Technology
+2024-02-29 23:21:15,092 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:15,495 - INFO - Successfully scraped Google results for college: IIT Kharagpur - Indian Institute of Technology
+2024-02-29 23:21:15,500 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:15,904 - INFO - Successfully scraped Google results for college: IIT Roorkee - Indian Institute of Technology
+2024-02-29 23:21:15,907 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:16,516 - INFO - Successfully scraped Google results for college: IIT Guwahati - Indian Institute of Technology
+2024-02-29 23:21:16,520 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:16,960 - INFO - Successfully scraped Google results for college: NIT Trichy - National Institute of Technology Tiruchirappalli
+2024-02-29 23:21:16,964 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:17,436 - INFO - Successfully scraped Google results for college: IIT Hyderabad - Indian Institute of Technology
+2024-02-29 23:21:17,440 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:17,947 - INFO - Successfully scraped Google results for college: NIT Surathkal - National Institute of Technology Karnataka
+2024-02-29 23:21:17,949 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:18,288 - INFO - Successfully scraped Google results for college: Jadavpur University, Kolkata
+2024-02-29 23:21:18,293 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:18,767 - INFO - Successfully scraped Google results for college: VIT Vellore - Vellore Institute of Technology
+2024-02-29 23:21:18,771 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:19,367 - INFO - Successfully scraped Google results for college: IIT BHU - Indian Institute of Technology Banaras Hindu University
+2024-02-29 23:21:19,372 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:19,751 - INFO - Successfully scraped Google results for college: IIT Dhanbad - Indian Institute of Technology Indian School of Mines
+2024-02-29 23:21:19,756 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:20,200 - INFO - Successfully scraped Google results for college: NIT Rourkela - National Institute of Technology
+2024-02-29 23:21:20,205 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:20,825 - INFO - Successfully scraped Google results for college: IIT Indore - Indian Institute of Technology
+2024-02-29 23:21:20,830 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:21,533 - INFO - Successfully scraped Google results for college: Anna University, Chennai
+2024-02-29 23:21:21,537 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:22,188 - INFO - Successfully scraped Google results for college: ICT Mumbai - Institute of Chemical Technology
+2024-02-29 23:21:22,190 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:22,600 - INFO - Successfully scraped Google results for college: Amrita Vishwa Vidyapeetham, Coimbatore
+2024-02-29 23:21:22,604 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:23,171 - INFO - Successfully scraped Google results for college: IIT Mandi - Indian Institute of Technology
+2024-02-29 23:21:23,175 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:23,793 - INFO - Successfully scraped Google results for college: NIT Warangal - National Institute of Technology
+2024-02-29 23:21:23,798 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:24,400 - INFO - Successfully scraped Google results for college: IIT Ropar - Indian Institute of Technology
+2024-02-29 23:21:24,404 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:25,016 - INFO - Successfully scraped Google results for college: IIT Gandhinagar - Indian Institute of Technology
+2024-02-29 23:21:25,020 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:25,464 - INFO - Successfully scraped Google results for college: SRM University Chennai - SRM Institute of Science and Technology
+2024-02-29 23:21:25,468 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:26,043 - INFO - Successfully scraped Google results for college: Amity University, Noida
+2024-02-29 23:21:26,047 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:26,551 - INFO - Successfully scraped Google results for college: JMI New Delhi - Jamia Millia Islamia
+2024-02-29 23:21:26,556 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:27,012 - INFO - Successfully scraped Google results for college: Siksha 'O' Anusandhan, Bhubaneswar
+2024-02-29 23:21:27,017 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:27,626 - INFO - Successfully scraped Google results for college: Thapar University - Thapar Institute of Engineering and Technology
+2024-02-29 23:21:27,630 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:28,125 - INFO - Successfully scraped Google results for college: BITS Pilani - Birla Institute of Technology and Science
+2024-02-29 23:21:28,129 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:28,663 - INFO - Successfully scraped Google results for college: IIT Jodhpur - Indian Institute of Technology
+2024-02-29 23:21:28,667 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:29,320 - INFO - Successfully scraped Google results for college: NIT Calicut - National Institute of Technology
+2024-02-29 23:21:29,326 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:29,789 - INFO - Successfully scraped Google results for college: VNIT Nagpur - Visvesvaraya National Institute of Technology
+2024-02-29 23:21:29,794 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:30,442 - INFO - Successfully scraped Google results for college: IIT Patna - Indian Institute of Technology
+2024-02-29 23:21:30,446 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:31,160 - INFO - Successfully scraped Google results for college: NIT Durgapur - National Institute of Technology
+2024-02-29 23:21:31,164 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:31,774 - INFO - Successfully scraped Google results for college: DTU Delhi - Delhi Technological University
+2024-02-29 23:21:31,778 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:32,387 - INFO - Successfully scraped Google results for college: IIT Bhubaneswar - Indian Institute of Technology
+2024-02-29 23:21:32,392 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:32,900 - INFO - Successfully scraped Google results for college: AMU Aligarh - Aligarh Muslim University
+2024-02-29 23:21:32,902 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:33,516 - INFO - Successfully scraped Google results for college: NIT Silchar - National Institute of Technology
+2024-02-29 23:21:33,521 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:33,986 - INFO - Successfully scraped Google results for college: Kalasalingam Academy of Research and Education, Virudhunagar
+2024-02-29 23:21:33,991 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:34,606 - INFO - Successfully scraped Google results for college: IIEST Shibpur - Indian Institute of Engineering Science and Technology
+2024-02-29 23:21:34,610 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:35,258 - INFO - Successfully scraped Google results for college: SASTRA University Thanjavur - Shanmugha Arts Science Technology Research and Academy
+2024-02-29 23:21:35,263 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:35,868 - INFO - Successfully scraped Google results for college: KIIT University - Kalinga Institute of Industrial Technology
+2024-02-29 23:21:35,872 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:36,485 - INFO - Successfully scraped Google results for college: IIST Thiruvananthapuram - Indian Institute of Space Science and Technology
+2024-02-29 23:21:36,489 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:37,098 - INFO - Successfully scraped Google results for college: KL University Guntur - Koneru Lakshmaiah Education Foundation
+2024-02-29 23:21:37,103 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:37,712 - INFO - Successfully scraped Google results for college: Chandigarh University, Chandigarh
+2024-02-29 23:21:37,716 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:38,278 - INFO - Successfully scraped Google results for college: MNIT Jaipur - Malaviya National Institute of Technology
+2024-02-29 23:21:38,282 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:39,146 - INFO - Successfully scraped Google results for college: MNNIT Allahabad - Motilal Nehru National Institute of Technology Allahabad Prayagraj
+2024-02-29 23:21:39,151 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:39,657 - INFO - Successfully scraped Google results for college: SSN College of Engineering - Sri Sivasubramaniya Nadar College of Engineering
+2024-02-29 23:21:39,662 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:40,272 - INFO - Successfully scraped Google results for college: Visvesvaraya Technological University, Belagavi
+2024-02-29 23:21:40,276 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:40,782 - INFO - Successfully scraped Google results for college: NIT Kurukshetra - National Institute of Technology
+2024-02-29 23:21:40,785 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:41,401 - INFO - Successfully scraped Google results for college: LPU Jalandhar - Lovely Professional University
+2024-02-29 23:21:41,406 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:42,012 - INFO - Successfully scraped Google results for college: NIT Jalandhar - Dr B R Ambedkar National Institute of Technology
+2024-02-29 23:21:42,015 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:42,629 - INFO - Successfully scraped Google results for college: Birla Institute of Technology, Mesra (BIT Mesra) - Birla Institute of Technology
+2024-02-29 23:21:42,634 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:43,241 - INFO - Successfully scraped Google results for college: Sathyabama University - Sathyabama Institute of Science and Technology
+2024-02-29 23:21:43,245 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:43,753 - INFO - Successfully scraped Google results for college: MIT Manipal - Manipal Institute of Technology
+2024-02-29 23:21:43,758 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:44,303 - INFO - Successfully scraped Google results for college: IIT Tirupati - Indian Institute of Technology
+2024-02-29 23:21:44,307 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:44,928 - INFO - Successfully scraped Google results for college: PSG Tech Coimbatore - PSG College of Technology
+2024-02-29 23:21:44,933 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:45,498 - INFO - Successfully scraped Google results for college: SVNIT Surat - Sardar Vallabhbhai National Institute of Technology
+2024-02-29 23:21:45,503 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:46,211 - INFO - Successfully scraped Google results for college: Banasthali Vidyapith, Banasthali
+2024-02-29 23:21:46,215 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:46,723 - INFO - Successfully scraped Google results for college: NIT Meghalaya - National Institute of Technology
+2024-02-29 23:21:46,727 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:47,235 - INFO - Successfully scraped Google results for college: UPES Dehradun - University of Petroleum and Energy Studies
+2024-02-29 23:21:47,240 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:47,851 - INFO - Successfully scraped Google results for college: IIIT Hyderabad - International Institute of Information Technology
+2024-02-29 23:21:47,855 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:48,405 - INFO - Successfully scraped Google results for college: NIT Patna - National Institute of Technology
+2024-02-29 23:21:48,409 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:49,077 - INFO - Successfully scraped Google results for college: Graphic Era University, Dehradun
+2024-02-29 23:21:49,082 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:49,693 - INFO - Successfully scraped Google results for college: NIT Raipur - National Institute of Technology
+2024-02-29 23:21:49,697 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:50,205 - INFO - Successfully scraped Google results for college: NIT Srinagar - National Institute of Technology
+2024-02-29 23:21:50,210 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:50,716 - INFO - Successfully scraped Google results for college: MSRIT Bangalore - Ramaiah Institute of Technology
+2024-02-29 23:21:50,720 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:51,228 - INFO - Successfully scraped Google results for college: IIT Palakkad - Indian Institute of Technology
+2024-02-29 23:21:51,232 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:51,914 - INFO - Successfully scraped Google results for college: IIIT Delhi - Indraprastha Institute of Information Technology
+2024-02-29 23:21:51,918 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:52,459 - INFO - Successfully scraped Google results for college: MANIT Bhopal - Maulana Azad National Institute of Technology
+2024-02-29 23:21:52,463 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:53,206 - INFO - Successfully scraped Google results for college: DIAT Pune - Defence Institute of Advanced Technology
+2024-02-29 23:21:53,209 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:53,788 - INFO - Successfully scraped Google results for college: COEP Pune - College of Engineering
+2024-02-29 23:21:53,792 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:54,403 - INFO - Successfully scraped Google results for college: SKCET Coimbatore - Sri Krishna College of Engineering and Technology
+2024-02-29 23:21:54,408 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:54,921 - INFO - Successfully scraped Google results for college: GGSIPU Delhi - Guru Gobind Singh Indraprastha University
+2024-02-29 23:21:54,925 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:55,427 - INFO - Successfully scraped Google results for college: Manipal University, Jaipur
+2024-02-29 23:21:55,432 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:56,041 - INFO - Successfully scraped Google results for college: JNTUH University - Jawaharlal Nehru Technological University
+2024-02-29 23:21:56,046 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:56,553 - INFO - Successfully scraped Google results for college: Andhra University College of Engineering, Visakhapatnam
+2024-02-29 23:21:56,558 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:57,065 - INFO - Successfully scraped Google results for college: IIITM Gwalior - Atal Bihari Vajpayee Indian Institute of Information Technology and Management
+2024-02-29 23:21:57,071 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:57,577 - INFO - Successfully scraped Google results for college: NSUT Delhi - Netaji Subhas University of Technology
+2024-02-29 23:21:57,582 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:58,007 - INFO - Successfully scraped Google results for college: NIT Agartala - National Institute of Technology
+2024-02-29 23:21:58,010 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:58,703 - INFO - Successfully scraped Google results for college: IIIT Bangalore - International Institute of Information Technology
+2024-02-29 23:21:58,707 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:59,422 - INFO - Successfully scraped Google results for college: IIITDM Jabalpur - PDPM Indian Institute of Information Technology Design and Manufacturing
+2024-02-29 23:21:59,426 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:21:59,867 - INFO - Successfully scraped Google results for college: BMSCE Bangalore - BMS College of Engineering
+2024-02-29 23:21:59,870 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:00,444 - INFO - Successfully scraped Google results for college: Vel Tech Chennai - Vel Tech Rangarajan Dr Sagunthala R and D Institute of Science and Technology
+2024-02-29 23:22:00,448 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:00,955 - INFO - Successfully scraped Google results for college: TCE Madurai - Thiagarajar College of Engineering
+2024-02-29 23:22:00,959 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:01,571 - INFO - Successfully scraped Google results for college: National Institute of Food Technology, Entrepreneurship and Management, Thanjavur
+2024-02-29 23:22:01,576 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:02,184 - INFO - Successfully scraped Google results for college: PEC Chandigarh - Punjab Engineering College
+2024-02-29 23:22:02,189 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:02,663 - INFO - Successfully scraped Google results for college: NIT Goa - National Institute of Technology
+2024-02-29 23:22:02,666 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:03,310 - INFO - Successfully scraped Google results for college: RVCE Bangalore - RV College of Engineering
+2024-02-29 23:22:03,314 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:03,822 - INFO - Successfully scraped Google results for college: NIT Jamshedpur - National Institute of Technology
+2024-02-29 23:22:03,825 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:04,437 - INFO - Successfully scraped Google results for college: SR University, Warangal
+2024-02-29 23:22:04,442 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:04,973 - INFO - Successfully scraped Google results for college: Panjab University, Chandigarh
+2024-02-29 23:22:04,976 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:05,387 - INFO - Successfully scraped Google results for college: IIIT Allahabad - Indian Institute of Information Technology
+2024-02-29 23:22:05,391 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:06,076 - INFO - Successfully scraped Google results for college: JIIT Noida - Jaypee Institute of Information Technology
+2024-02-29 23:22:06,079 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:07,000 - INFO - Successfully scraped Google results for college: Rajalakshmi Engineering College, Chennai
+2024-02-29 23:22:07,004 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:07,512 - INFO - Successfully scraped Google results for college: The NorthCap University, Gurgaon
+2024-02-29 23:22:07,514 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:08,069 - INFO - Successfully scraped Google results for college: SIT Tumkur - Siddaganga Institute of Technology
+2024-02-29 23:22:08,071 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:08,532 - INFO - Successfully scraped Google results for college: CV Raman Global University, Bhubaneswar
+2024-02-29 23:22:08,535 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:09,048 - INFO - Successfully scraped Google results for college: Vignan's Foundation for Science Technology and Research, Guntur
+2024-02-29 23:22:09,051 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:09,559 - INFO - Successfully scraped Google results for college: PES University, Bangalore
+2024-02-29 23:22:09,565 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:10,173 - INFO - Successfully scraped Google results for college: SMVDU Katra - Shri Mata Vaishno Devi University
+2024-02-29 23:22:10,178 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:10,788 - INFO - Successfully scraped Google results for college: BSAU Chennai - BS Abdur Rahman Crescent Institute of Science and Technology
+2024-02-29 23:22:10,793 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:11,299 - INFO - Successfully scraped Google results for college: GITAM Bhubaneswar - Gandhi Institute of Technology and Management
+2024-02-29 23:22:11,303 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:11,914 - INFO - Successfully scraped Google results for college: CIT Coimbatore - Coimbatore Institute of Technology
+2024-02-29 23:22:11,919 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:12,425 - INFO - Successfully scraped Google results for college: MRIIRS Faridabad - Manav Rachna International Institute of Research and Studies
+2024-02-29 23:22:12,429 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:12,938 - INFO - Successfully scraped Google results for college: Pandit Deendayal Energy University, Gandhinagar
+2024-02-29 23:22:12,940 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:13,363 - INFO - Successfully scraped Google results for college: Karunya University - Karunya Institute of Technology and Sciences
+2024-02-29 23:22:13,368 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:13,958 - INFO - Successfully scraped Google results for college: Kumaraguru College of Technology, Coimbatore
+2024-02-29 23:22:13,963 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:14,474 - INFO - Successfully scraped Google results for college: NIT Manipur - National Institute of Technology
+2024-02-29 23:22:14,477 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:14,982 - INFO - Successfully scraped Google results for college: College of Engineering, Trivandrum
+2024-02-29 23:22:14,987 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:15,498 - INFO - Successfully scraped Google results for college: VSSUT Sambalpur - Veer Surendra Sai University of Technology
+2024-02-29 23:22:15,502 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:16,017 - INFO - Successfully scraped Google results for college: IIIT Guwahati - Indian Institute of Information Technology
+2024-02-29 23:22:16,022 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:16,624 - INFO - Successfully scraped Google results for college: VNR VJIET Hyderabad - VNR Vignana Jyothi Institute of Engineering and Technology
+2024-02-29 23:22:16,629 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:17,151 - INFO - Successfully scraped Google results for college: Amity University Gurgaon - Amity University
+2024-02-29 23:22:17,156 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:17,650 - INFO - Successfully scraped Google results for college: Jain University, Bangalore
+2024-02-29 23:22:17,655 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:18,161 - INFO - Successfully scraped Google results for college: MIT-WPU Pune - Dr Vishwanath Karad MIT World Peace University
+2024-02-29 23:22:18,165 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:18,627 - INFO - Successfully scraped Google results for college: University College of Engineering, Osmania University, Hyderabad
+2024-02-29 23:22:18,632 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:19,184 - INFO - Successfully scraped Google results for college: KEC Erode - Kongu Engineering College
+2024-02-29 23:22:19,188 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:19,629 - INFO - Successfully scraped Google results for college: VJTI Mumbai - Veermata Jijabai Technological Institute
+2024-02-29 23:22:19,633 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:20,209 - INFO - Successfully scraped Google results for college: DEI Agra - Dayalbagh Educational Institute
+2024-02-29 23:22:20,214 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:21,030 - INFO - Successfully scraped Google results for college: NHCE Bangalore - New Horizon College of Engineering
+2024-02-29 23:22:21,035 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:21,744 - INFO - Successfully scraped Google results for college: Sri Krishna College of Technology, Coimbatore
+2024-02-29 23:22:21,749 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:22,260 - INFO - Successfully scraped Google results for college: Tezpur University, Tezpur
+2024-02-29 23:22:22,265 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:22,834 - INFO - Successfully scraped Google results for college: PSGITECH Coimbatore - PSG Institute of Technology and Applied Research
+2024-02-29 23:22:22,840 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:23,365 - INFO - Successfully scraped Google results for college: Nirma University, Ahmedabad
+2024-02-29 23:22:23,370 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:23,824 - INFO - Successfully scraped Google results for college: Shoolini University Solan - Shoolini University of Biotechnology and Management Sciences
+2024-02-29 23:22:23,829 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:24,408 - INFO - Successfully scraped Google results for college: NIFTEM Sonepat - National Institute of Food Technology Entrepreneurship and Management
+2024-02-29 23:22:24,412 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:24,999 - INFO - Successfully scraped Google results for college: NIT Hamirpur - National Institute of Technology
+2024-02-29 23:22:25,004 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:25,533 - INFO - Successfully scraped Google results for college: JNTUK Kakinada - Jawaharlal Nehru Technological University
+2024-02-29 23:22:25,537 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:26,045 - INFO - Successfully scraped Google results for college: Mepco Schlenk Engineering College, Sivakasi
+2024-02-29 23:22:26,049 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:26,659 - INFO - Successfully scraped Google results for college: BVUCOE Pune - Bharati Vidyapeeth Deemed University College of Engineering
+2024-02-29 23:22:26,663 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:27,172 - INFO - Successfully scraped Google results for college: NIT Uttarakhand - National Institute of Technology
+2024-02-29 23:22:27,176 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:27,788 - INFO - Successfully scraped Google results for college: Amity University, Jaipur
+2024-02-29 23:22:27,791 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:28,506 - INFO - Successfully scraped Google results for college: DAIICT Gandhinagar - Dhirubhai Ambani Institute of Information and Communication Technology
+2024-02-29 23:22:28,511 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:29,016 - INFO - Successfully scraped Google results for college: NMIMS Mumbai - Narsee Monjee Institute of Management Studies
+2024-02-29 23:22:29,020 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:29,628 - INFO - Successfully scraped Google results for college: NIT Puducherry - National Institute of Technology Puducherry Karaikal
+2024-02-29 23:22:29,633 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:30,246 - INFO - Successfully scraped Google results for college: PESCE Mandya - PES College of Engineering
+2024-02-29 23:22:30,251 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:30,758 - INFO - Successfully scraped Google results for college: JUIT Solan - Jaypee University of Information Technology
+2024-02-29 23:22:30,762 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:31,372 - INFO - Successfully scraped Google results for college: CEC Landran - Chandigarh Engineering College, Landran Campus
+2024-02-29 23:22:31,378 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:31,890 - INFO - Successfully scraped Google results for college: Anurag University, Hyderabad
+2024-02-29 23:22:31,894 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:32,603 - INFO - Successfully scraped Google results for college: VRSEC Vijayawada - Velagapudi Ramakrishna Siddhartha Engineering College
+2024-02-29 23:22:32,608 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:33,213 - INFO - Successfully scraped Google results for college: VIT Pune - Vishwakarma Institute of Technology
+2024-02-29 23:22:33,217 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:33,827 - INFO - Successfully scraped Google results for college: YMCA Faridabad - JC Bose University of Science and Technology, YMCA
+2024-02-29 23:22:33,831 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:34,442 - INFO - Successfully scraped Google results for college: Chitkara University Chandigarh - Chitkara University
+2024-02-29 23:22:34,446 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:35,128 - INFO - Successfully scraped Google results for college: NIET Greater Noida - Noida Institute of Engineering and Technology
+2024-02-29 23:22:35,136 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:35,772 - INFO - Successfully scraped Google results for college: RCOEM Nagpur - Shri Ramdeobaba College of Engineering and Management
+2024-02-29 23:22:35,777 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:36,285 - INFO - Successfully scraped Google results for college: Galgotias University, Greater Noida
+2024-02-29 23:22:36,290 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:36,789 - INFO - Successfully scraped Google results for college: GRIET Hyderabad - Gokaraju Rangaraju Institute of Engineering and Technology
+2024-02-29 23:22:36,794 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:37,308 - INFO - Successfully scraped Google results for college: MSU Baroda - Maharaja Sayajirao University of Baroda
+2024-02-29 23:22:37,313 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:37,821 - INFO - Successfully scraped Google results for college: NIFFT Ranchi - National Institute of Advanced Manufacturing Technology
+2024-02-29 23:22:37,826 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:38,368 - INFO - Successfully scraped Google results for college: PEC Puducherry - Puducherry Technological University
+2024-02-29 23:22:38,374 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:38,870 - INFO - Successfully scraped Google results for college: HITS Chennai - Hindustan Institute of Technology and Science
+2024-02-29 23:22:38,874 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:39,460 - INFO - Successfully scraped Google results for college: Amity University, Gwalior
+2024-02-29 23:22:39,464 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:40,020 - INFO - Successfully scraped Google results for college: Mahindra University, Hyderabad
+2024-02-29 23:22:40,024 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:40,587 - INFO - Successfully scraped Google results for college: RMK Engineering College, Thiruvallur
+2024-02-29 23:22:40,591 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:41,202 - INFO - Successfully scraped Google results for college: SIMATS Chennai - Saveetha Institute of Medical and Technical Sciences
+2024-02-29 23:22:41,206 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:41,919 - INFO - Successfully scraped Google results for college: Sri Sai Ram Engineering College, Chennai
+2024-02-29 23:22:41,924 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:42,635 - INFO - Successfully scraped Google results for college: JSS Science and Technology University, Mysuru
+2024-02-29 23:22:42,640 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:43,248 - INFO - Successfully scraped Google results for college: Vels University Chennai - Vel's Institute of Science Technology and Advanced Studies
+2024-02-29 23:22:43,253 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:43,746 - INFO - Successfully scraped Google results for college: GCT Coimbatore - Government College of Technology
+2024-02-29 23:22:43,751 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:44,271 - INFO - Successfully scraped Google results for college: Silicon Institute of Technology, Bhubaneswar
+2024-02-29 23:22:44,275 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:44,787 - INFO - Successfully scraped Google results for college: Vardhaman College of Engineering, Hyderabad
+2024-02-29 23:22:44,792 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:45,293 - INFO - Successfully scraped Google results for college: GHRCE Nagpur - GH Raisoni College of Engineering
+2024-02-29 23:22:45,296 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:45,813 - INFO - Successfully scraped Google results for college: Sharda University, Greater Noida
+2024-02-29 23:22:45,815 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:46,323 - INFO - Successfully scraped Google results for college: Sree Vidyanikethan Engineering College, Tirupati (SVEC Tirupati) - School of Engineering and Technology, Mohan Babu University
+2024-02-29 23:22:46,332 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:46,831 - INFO - Successfully scraped Google results for college: CBIT Hyderabad - Chaitanya Bharathi Institute of Technology
+2024-02-29 23:22:46,834 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:47,346 - INFO - Successfully scraped Google results for college: Rabindranath Tagore University, Raisen
+2024-02-29 23:22:47,351 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:47,965 - INFO - Successfully scraped Google results for college: SPIT Mumbai - Sardar Patel Institute of Technology
+2024-02-29 23:22:47,967 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:48,402 - INFO - Successfully scraped Google results for college: NEC Kovilpatti - National Engineering College
+2024-02-29 23:22:48,406 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:48,836 - INFO - Successfully scraped Google results for college: CVR College of Engineering, Hyderabad
+2024-02-29 23:22:48,839 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:49,444 - INFO - Successfully scraped Google results for college: NIT Arunachal Pradesh - National Institute of Technology
+2024-02-29 23:22:49,448 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:49,893 - INFO - Successfully scraped Google results for college: AIT Pune - Army Institute of Technology
+2024-02-29 23:22:49,898 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:50,323 - INFO - Successfully scraped Google results for college: NIT Sikkim - National Institute of Technology
+2024-02-29 23:22:50,327 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:50,945 - INFO - Successfully scraped Google results for college: Sona College of Technology, Salem
+2024-02-29 23:22:50,948 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:51,471 - INFO - Successfully scraped Google results for college: CIT Chennai - Chennai Institute of Technology
+2024-02-29 23:22:51,474 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:51,942 - INFO - Successfully scraped Google results for college: NMAM Institute of Technology, Karkala Taluk
+2024-02-29 23:22:51,947 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:52,484 - INFO - Successfully scraped Google results for college: IGDTUW Delhi - Indira Gandhi Delhi Technical University for Women
+2024-02-29 23:22:52,488 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:53,012 - INFO - Successfully scraped Google results for college: SLIET Longowal - Sant Longowal Institute of Engineering and Technology
+2024-02-29 23:22:53,013 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:53,591 - INFO - Successfully scraped Google results for college: DIT University, Dehradun
+2024-02-29 23:22:53,594 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:54,110 - INFO - Successfully scraped Google results for college: CMRIT Bangalore - CMR Institute of Technology
+2024-02-29 23:22:54,113 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:54,596 - INFO - Successfully scraped Google results for college: Easwari Engineering College, Chennai
+2024-02-29 23:22:54,600 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:55,127 - INFO - Successfully scraped Google results for college: RGIPT Amethi - Rajiv Gandhi Institute of Petroleum Technology
+2024-02-29 23:22:55,131 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:55,533 - INFO - Successfully scraped Google results for college: NMIT Bangalore - Nitte Meenakshi Institute of Technology
+2024-02-29 23:22:55,535 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:56,133 - INFO - Successfully scraped Google results for college: IIITDM Kancheepuram - Indian Institute of Information Technology Design and Manufacturing
+2024-02-29 23:22:56,136 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:56,610 - INFO - Successfully scraped Google results for college: YCCE Nagpur - Yeshwantrao Chavan College of Engineering
+2024-02-29 23:22:56,613 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:57,205 - INFO - Successfully scraped Google results for college: GLA University, Mathura
+2024-02-29 23:22:57,210 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:57,931 - INFO - Successfully scraped Google results for college: KIET Group of Institutions, Ghaziabad (KIET Ghaziabad) - KIET Group of Institutions
+2024-02-29 23:22:57,935 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:58,362 - INFO - Successfully scraped Google results for college: GMRIT Rajam - GMR Institute of Technology
+2024-02-29 23:22:58,365 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:58,881 - INFO - Successfully scraped Google results for college: Christ University, Bangalore
+2024-02-29 23:22:58,884 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:59,335 - INFO - Successfully scraped Google results for college: IITRAM Ahmedabad - Institute of Infrastructure Technology Research and Management
+2024-02-29 23:22:59,338 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:22:59,732 - INFO - Successfully scraped Google results for college: MMU Ambala - Maharishi Markandeshwar University
+2024-02-29 23:22:59,735 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:23:00,234 - INFO - Successfully scraped Google results for college: GCET Greater Noida - Galgotias College of Engineering and Technology
+2024-02-29 23:23:00,237 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:23:00,817 - INFO - Successfully scraped Google results for college: DYPIET Pimpri - Dr DY Patil Institute of Technology
+2024-02-29 23:23:00,820 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:23:01,505 - INFO - Successfully scraped Google results for college: NIT Delhi - National Institute of Technology
+2024-02-29 23:23:01,509 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:23:01,979 - INFO - Successfully scraped Google results for college: GL Bajaj Institute of Technology and Management, Greater Noida
+2024-02-29 23:23:01,981 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:23:02,349 - INFO - Successfully scraped Google results for college: KLE Technological University, Hubballi
+2024-02-29 23:23:02,351 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:23:02,778 - INFO - Successfully scraped Google results for college: DJSCE Mumbai - Dwarkadas J Sanghvi College of Engineering
+2024-02-29 23:23:02,784 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:23:03,476 - INFO - Successfully scraped Google results for college: SVCET Chittoor - Sri Venkateswara College of Engineering and Technology
+2024-02-29 23:23:03,480 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:23:04,137 - INFO - Successfully scraped Google results for college: BMSIT Bangalore - BMS Institute of Technology and Management
+2024-02-29 23:23:04,141 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:23:04,318 - ERROR - Error scraping Google results for college: VJIT Hyderabad - Vidya Jyothi Institute of Technology, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=VJIT+Hyderabad+-+Vidya+Jyothi+Institute+of+Technology+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:26:12,302 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:12,513 - ERROR - Error scraping Google results for college: IIT Madras - Indian Institute of Technology, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=IIT+Madras+-+Indian+Institute+of+Technology+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:26:12,521 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:12,884 - INFO - Successfully scraped Google results for college: IIT Delhi - Indian Institute of Technology
+2024-02-29 23:26:12,888 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:13,272 - INFO - Successfully scraped Google results for college: IIT Bombay - Indian Institute of Technology
+2024-02-29 23:26:13,276 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:13,989 - INFO - Successfully scraped Google results for college: IIT Kanpur - Indian Institute of Technology
+2024-02-29 23:26:13,994 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:14,401 - INFO - Successfully scraped Google results for college: IIT Kharagpur - Indian Institute of Technology
+2024-02-29 23:26:14,406 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:14,568 - ERROR - Error scraping Google results for college: IIT Roorkee - Indian Institute of Technology, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=IIT+Roorkee+-+Indian+Institute+of+Technology+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:26:14,572 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:14,969 - INFO - Successfully scraped Google results for college: IIT Guwahati - Indian Institute of Technology
+2024-02-29 23:26:14,973 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:15,422 - INFO - Successfully scraped Google results for college: NIT Trichy - National Institute of Technology Tiruchirappalli
+2024-02-29 23:26:15,427 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:15,950 - INFO - Successfully scraped Google results for college: IIT Hyderabad - Indian Institute of Technology
+2024-02-29 23:26:15,955 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:16,127 - ERROR - Error scraping Google results for college: NIT Surathkal - National Institute of Technology Karnataka, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=NIT+Surathkal+-+National+Institute+of+Technology+Karnataka+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:26:16,131 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:16,559 - INFO - Successfully scraped Google results for college: Jadavpur University, Kolkata
+2024-02-29 23:26:16,561 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:16,939 - INFO - Successfully scraped Google results for college: VIT Vellore - Vellore Institute of Technology
+2024-02-29 23:26:16,943 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:17,473 - INFO - Successfully scraped Google results for college: IIT BHU - Indian Institute of Technology Banaras Hindu University
+2024-02-29 23:26:17,477 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:17,864 - INFO - Successfully scraped Google results for college: IIT Dhanbad - Indian Institute of Technology Indian School of Mines
+2024-02-29 23:26:17,868 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:18,392 - INFO - Successfully scraped Google results for college: NIT Rourkela - National Institute of Technology
+2024-02-29 23:26:18,396 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:18,879 - INFO - Successfully scraped Google results for college: IIT Indore - Indian Institute of Technology
+2024-02-29 23:26:18,882 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:19,338 - INFO - Successfully scraped Google results for college: Anna University, Chennai
+2024-02-29 23:26:19,342 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:19,825 - INFO - Successfully scraped Google results for college: ICT Mumbai - Institute of Chemical Technology
+2024-02-29 23:26:19,829 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:20,339 - INFO - Successfully scraped Google results for college: Amrita Vishwa Vidyapeetham, Coimbatore
+2024-02-29 23:26:20,343 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:20,956 - INFO - Successfully scraped Google results for college: IIT Mandi - Indian Institute of Technology
+2024-02-29 23:26:20,961 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:21,389 - INFO - Successfully scraped Google results for college: NIT Warangal - National Institute of Technology
+2024-02-29 23:26:21,393 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:21,799 - INFO - Successfully scraped Google results for college: IIT Ropar - Indian Institute of Technology
+2024-02-29 23:26:21,803 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:22,282 - INFO - Successfully scraped Google results for college: IIT Gandhinagar - Indian Institute of Technology
+2024-02-29 23:26:22,284 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:22,691 - INFO - Successfully scraped Google results for college: SRM University Chennai - SRM Institute of Science and Technology
+2024-02-29 23:26:22,693 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:23,113 - INFO - Successfully scraped Google results for college: Amity University, Noida
+2024-02-29 23:26:23,118 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:23,617 - INFO - Successfully scraped Google results for college: JMI New Delhi - Jamia Millia Islamia
+2024-02-29 23:26:23,619 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:24,145 - INFO - Successfully scraped Google results for college: Siksha 'O' Anusandhan, Bhubaneswar
+2024-02-29 23:26:24,147 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:24,637 - INFO - Successfully scraped Google results for college: Thapar University - Thapar Institute of Engineering and Technology
+2024-02-29 23:26:24,639 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:25,048 - INFO - Successfully scraped Google results for college: BITS Pilani - Birla Institute of Technology and Science
+2024-02-29 23:26:25,050 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:25,396 - INFO - Successfully scraped Google results for college: IIT Jodhpur - Indian Institute of Technology
+2024-02-29 23:26:25,398 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:25,802 - INFO - Successfully scraped Google results for college: NIT Calicut - National Institute of Technology
+2024-02-29 23:26:25,804 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:26,148 - INFO - Successfully scraped Google results for college: VNIT Nagpur - Visvesvaraya National Institute of Technology
+2024-02-29 23:26:26,150 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:26,791 - INFO - Successfully scraped Google results for college: IIT Patna - Indian Institute of Technology
+2024-02-29 23:26:26,793 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:27,299 - INFO - Successfully scraped Google results for college: NIT Durgapur - National Institute of Technology
+2024-02-29 23:26:27,301 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:27,712 - INFO - Successfully scraped Google results for college: DTU Delhi - Delhi Technological University
+2024-02-29 23:26:27,714 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:28,429 - INFO - Successfully scraped Google results for college: IIT Bhubaneswar - Indian Institute of Technology
+2024-02-29 23:26:28,431 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:28,941 - INFO - Successfully scraped Google results for college: AMU Aligarh - Aligarh Muslim University
+2024-02-29 23:26:28,944 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:29,455 - INFO - Successfully scraped Google results for college: NIT Silchar - National Institute of Technology
+2024-02-29 23:26:29,460 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:29,963 - INFO - Successfully scraped Google results for college: Kalasalingam Academy of Research and Education, Virudhunagar
+2024-02-29 23:26:29,967 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:30,372 - INFO - Successfully scraped Google results for college: IIEST Shibpur - Indian Institute of Engineering Science and Technology
+2024-02-29 23:26:30,377 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:30,832 - INFO - Successfully scraped Google results for college: SASTRA University Thanjavur - Shanmugha Arts Science Technology Research and Academy
+2024-02-29 23:26:30,836 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:31,295 - INFO - Successfully scraped Google results for college: KIIT University - Kalinga Institute of Industrial Technology
+2024-02-29 23:26:31,299 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:31,807 - INFO - Successfully scraped Google results for college: IIST Thiruvananthapuram - Indian Institute of Space Science and Technology
+2024-02-29 23:26:31,812 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:32,321 - INFO - Successfully scraped Google results for college: KL University Guntur - Koneru Lakshmaiah Education Foundation
+2024-02-29 23:26:32,326 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:32,728 - INFO - Successfully scraped Google results for college: Chandigarh University, Chandigarh
+2024-02-29 23:26:32,732 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:33,242 - INFO - Successfully scraped Google results for college: MNIT Jaipur - Malaviya National Institute of Technology
+2024-02-29 23:26:33,246 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:33,753 - INFO - Successfully scraped Google results for college: MNNIT Allahabad - Motilal Nehru National Institute of Technology Allahabad Prayagraj
+2024-02-29 23:26:33,755 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:34,265 - INFO - Successfully scraped Google results for college: SSN College of Engineering - Sri Sivasubramaniya Nadar College of Engineering
+2024-02-29 23:26:34,268 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:34,700 - INFO - Successfully scraped Google results for college: Visvesvaraya Technological University, Belagavi
+2024-02-29 23:26:34,704 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:35,186 - INFO - Successfully scraped Google results for college: NIT Kurukshetra - National Institute of Technology
+2024-02-29 23:26:35,190 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:35,696 - INFO - Successfully scraped Google results for college: LPU Jalandhar - Lovely Professional University
+2024-02-29 23:26:35,699 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:36,210 - INFO - Successfully scraped Google results for college: NIT Jalandhar - Dr B R Ambedkar National Institute of Technology
+2024-02-29 23:26:36,214 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:36,744 - INFO - Successfully scraped Google results for college: Birla Institute of Technology, Mesra (BIT Mesra) - Birla Institute of Technology
+2024-02-29 23:26:36,748 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:37,338 - INFO - Successfully scraped Google results for college: Sathyabama University - Sathyabama Institute of Science and Technology
+2024-02-29 23:26:37,343 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:37,853 - INFO - Successfully scraped Google results for college: MIT Manipal - Manipal Institute of Technology
+2024-02-29 23:26:37,857 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:38,285 - INFO - Successfully scraped Google results for college: IIT Tirupati - Indian Institute of Technology
+2024-02-29 23:26:38,289 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:38,975 - INFO - Successfully scraped Google results for college: PSG Tech Coimbatore - PSG College of Technology
+2024-02-29 23:26:38,979 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:39,693 - INFO - Successfully scraped Google results for college: SVNIT Surat - Sardar Vallabhbhai National Institute of Technology
+2024-02-29 23:26:39,697 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:40,203 - INFO - Successfully scraped Google results for college: Banasthali Vidyapith, Banasthali
+2024-02-29 23:26:40,207 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:40,610 - INFO - Successfully scraped Google results for college: NIT Meghalaya - National Institute of Technology
+2024-02-29 23:26:40,614 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:41,071 - INFO - Successfully scraped Google results for college: UPES Dehradun - University of Petroleum and Energy Studies
+2024-02-29 23:26:41,076 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:41,535 - INFO - Successfully scraped Google results for college: IIIT Hyderabad - International Institute of Information Technology
+2024-02-29 23:26:41,539 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:41,882 - INFO - Successfully scraped Google results for college: NIT Patna - National Institute of Technology
+2024-02-29 23:26:41,887 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:42,559 - INFO - Successfully scraped Google results for college: Graphic Era University, Dehradun
+2024-02-29 23:26:42,564 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:43,076 - INFO - Successfully scraped Google results for college: NIT Raipur - National Institute of Technology
+2024-02-29 23:26:43,080 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:43,627 - INFO - Successfully scraped Google results for college: NIT Srinagar - National Institute of Technology
+2024-02-29 23:26:43,632 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:44,057 - INFO - Successfully scraped Google results for college: MSRIT Bangalore - Ramaiah Institute of Technology
+2024-02-29 23:26:44,061 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:44,424 - INFO - Successfully scraped Google results for college: IIT Palakkad - Indian Institute of Technology
+2024-02-29 23:26:44,428 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:44,934 - INFO - Successfully scraped Google results for college: IIIT Delhi - Indraprastha Institute of Information Technology
+2024-02-29 23:26:44,937 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:45,508 - INFO - Successfully scraped Google results for college: MANIT Bhopal - Maulana Azad National Institute of Technology
+2024-02-29 23:26:45,513 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:46,146 - INFO - Successfully scraped Google results for college: DIAT Pune - Defence Institute of Advanced Technology
+2024-02-29 23:26:46,150 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:46,860 - INFO - Successfully scraped Google results for college: COEP Pune - College of Engineering
+2024-02-29 23:26:46,864 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:47,581 - INFO - Successfully scraped Google results for college: SKCET Coimbatore - Sri Krishna College of Engineering and Technology
+2024-02-29 23:26:47,585 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:48,090 - INFO - Successfully scraped Google results for college: GGSIPU Delhi - Guru Gobind Singh Indraprastha University
+2024-02-29 23:26:48,094 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:48,705 - INFO - Successfully scraped Google results for college: Manipal University, Jaipur
+2024-02-29 23:26:48,710 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:49,317 - INFO - Successfully scraped Google results for college: JNTUH University - Jawaharlal Nehru Technological University
+2024-02-29 23:26:49,323 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:49,934 - INFO - Successfully scraped Google results for college: Andhra University College of Engineering, Visakhapatnam
+2024-02-29 23:26:49,939 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:50,444 - INFO - Successfully scraped Google results for college: IIITM Gwalior - Atal Bihari Vajpayee Indian Institute of Information Technology and Management
+2024-02-29 23:26:50,450 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:50,904 - INFO - Successfully scraped Google results for college: NSUT Delhi - Netaji Subhas University of Technology
+2024-02-29 23:26:50,908 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:51,365 - INFO - Successfully scraped Google results for college: NIT Agartala - National Institute of Technology
+2024-02-29 23:26:51,370 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:51,839 - INFO - Successfully scraped Google results for college: IIIT Bangalore - International Institute of Information Technology
+2024-02-29 23:26:51,843 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:52,389 - INFO - Successfully scraped Google results for college: IIITDM Jabalpur - PDPM Indian Institute of Information Technology Design and Manufacturing
+2024-02-29 23:26:52,394 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:52,826 - INFO - Successfully scraped Google results for college: BMSCE Bangalore - BMS College of Engineering
+2024-02-29 23:26:52,829 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:53,412 - INFO - Successfully scraped Google results for college: Vel Tech Chennai - Vel Tech Rangarajan Dr Sagunthala R and D Institute of Science and Technology
+2024-02-29 23:26:53,415 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:53,998 - INFO - Successfully scraped Google results for college: TCE Madurai - Thiagarajar College of Engineering
+2024-02-29 23:26:54,003 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:54,643 - INFO - Successfully scraped Google results for college: National Institute of Food Technology, Entrepreneurship and Management, Thanjavur
+2024-02-29 23:26:54,648 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:55,154 - INFO - Successfully scraped Google results for college: PEC Chandigarh - Punjab Engineering College
+2024-02-29 23:26:55,159 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:55,664 - INFO - Successfully scraped Google results for college: NIT Goa - National Institute of Technology
+2024-02-29 23:26:55,667 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:56,178 - INFO - Successfully scraped Google results for college: RVCE Bangalore - RV College of Engineering
+2024-02-29 23:26:56,183 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:56,690 - INFO - Successfully scraped Google results for college: NIT Jamshedpur - National Institute of Technology
+2024-02-29 23:26:56,694 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:57,305 - INFO - Successfully scraped Google results for college: SR University, Warangal
+2024-02-29 23:26:57,310 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:57,731 - INFO - Successfully scraped Google results for college: Panjab University, Chandigarh
+2024-02-29 23:26:57,735 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:58,161 - INFO - Successfully scraped Google results for college: IIIT Allahabad - Indian Institute of Information Technology
+2024-02-29 23:26:58,165 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:58,738 - INFO - Successfully scraped Google results for college: JIIT Noida - Jaypee Institute of Information Technology
+2024-02-29 23:26:58,743 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:59,250 - INFO - Successfully scraped Google results for college: Rajalakshmi Engineering College, Chennai
+2024-02-29 23:26:59,254 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:26:59,710 - INFO - Successfully scraped Google results for college: The NorthCap University, Gurgaon
+2024-02-29 23:26:59,714 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:00,274 - INFO - Successfully scraped Google results for college: SIT Tumkur - Siddaganga Institute of Technology
+2024-02-29 23:27:00,279 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:00,787 - INFO - Successfully scraped Google results for college: CV Raman Global University, Bhubaneswar
+2024-02-29 23:27:00,791 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:01,300 - INFO - Successfully scraped Google results for college: Vignan's Foundation for Science Technology and Research, Guntur
+2024-02-29 23:27:01,304 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:02,016 - INFO - Successfully scraped Google results for college: PES University, Bangalore
+2024-02-29 23:27:02,020 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:02,630 - INFO - Successfully scraped Google results for college: SMVDU Katra - Shri Mata Vaishno Devi University
+2024-02-29 23:27:02,634 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:03,205 - INFO - Successfully scraped Google results for college: BSAU Chennai - BS Abdur Rahman Crescent Institute of Science and Technology
+2024-02-29 23:27:03,209 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:03,655 - INFO - Successfully scraped Google results for college: GITAM Bhubaneswar - Gandhi Institute of Technology and Management
+2024-02-29 23:27:03,659 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:04,166 - INFO - Successfully scraped Google results for college: CIT Coimbatore - Coimbatore Institute of Technology
+2024-02-29 23:27:04,171 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:04,574 - INFO - Successfully scraped Google results for college: MRIIRS Faridabad - Manav Rachna International Institute of Research and Studies
+2024-02-29 23:27:04,579 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:05,094 - INFO - Successfully scraped Google results for college: Pandit Deendayal Energy University, Gandhinagar
+2024-02-29 23:27:05,098 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:05,265 - ERROR - Error scraping Google results for college: Karunya University - Karunya Institute of Technology and Sciences, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Karunya+University+-+Karunya+Institute+of+Technology+and+Sciences+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:27:05,269 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:05,733 - INFO - Successfully scraped Google results for college: Kumaraguru College of Technology, Coimbatore
+2024-02-29 23:27:05,736 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:05,896 - ERROR - Error scraping Google results for college: NIT Manipur - National Institute of Technology, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=NIT+Manipur+-+National+Institute+of+Technology+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:27:05,898 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:06,070 - ERROR - Error scraping Google results for college: College of Engineering, Trivandrum, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=College+of+Engineering%2C+Trivandrum+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:27:06,073 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:06,247 - ERROR - Error scraping Google results for college: VSSUT Sambalpur - Veer Surendra Sai University of Technology, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=VSSUT+Sambalpur+-+Veer+Surendra+Sai+University+of+Technology+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:27:06,252 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:06,427 - ERROR - Error scraping Google results for college: IIIT Guwahati - Indian Institute of Information Technology, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=IIIT+Guwahati+-+Indian+Institute+of+Information+Technology+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:27:06,432 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:06,604 - ERROR - Error scraping Google results for college: VNR VJIET Hyderabad - VNR Vignana Jyothi Institute of Engineering and Technology, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=VNR+VJIET+Hyderabad+-+VNR+Vignana+Jyothi+Institute+of+Engineering+and+Technology+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:27:06,606 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:06,771 - ERROR - Error scraping Google results for college: Amity University Gurgaon - Amity University, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Amity+University+Gurgaon+-+Amity+University+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:27:06,775 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:06,948 - ERROR - Error scraping Google results for college: Jain University, Bangalore, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Jain+University%2C+Bangalore+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:27:06,953 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:07,139 - ERROR - Error scraping Google results for college: MIT-WPU Pune - Dr Vishwanath Karad MIT World Peace University, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=MIT-WPU+Pune+-+Dr+Vishwanath+Karad+MIT+World+Peace+University+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:27:07,143 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:07,651 - INFO - Successfully scraped Google results for college: University College of Engineering, Osmania University, Hyderabad
+2024-02-29 23:27:07,655 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:08,160 - INFO - Successfully scraped Google results for college: KEC Erode - Kongu Engineering College
+2024-02-29 23:27:08,164 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:08,336 - ERROR - Error scraping Google results for college: VJTI Mumbai - Veermata Jijabai Technological Institute, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=VJTI+Mumbai+-+Veermata+Jijabai+Technological+Institute+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:27:08,341 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:08,979 - INFO - Successfully scraped Google results for college: DEI Agra - Dayalbagh Educational Institute
+2024-02-29 23:27:08,984 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:09,489 - INFO - Successfully scraped Google results for college: NHCE Bangalore - New Horizon College of Engineering
+2024-02-29 23:27:09,493 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:10,053 - INFO - Successfully scraped Google results for college: Sri Krishna College of Technology, Coimbatore
+2024-02-29 23:27:10,057 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:10,515 - INFO - Successfully scraped Google results for college: Tezpur University, Tezpur
+2024-02-29 23:27:10,519 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:11,072 - INFO - Successfully scraped Google results for college: PSGITECH Coimbatore - PSG Institute of Technology and Applied Research
+2024-02-29 23:27:11,075 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:11,244 - ERROR - Error scraping Google results for college: Nirma University, Ahmedabad, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Nirma+University%2C+Ahmedabad+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:27:11,247 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:11,742 - INFO - Successfully scraped Google results for college: Shoolini University Solan - Shoolini University of Biotechnology and Management Sciences
+2024-02-29 23:27:11,747 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:12,257 - INFO - Successfully scraped Google results for college: NIFTEM Sonepat - National Institute of Food Technology Entrepreneurship and Management
+2024-02-29 23:27:12,262 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:12,880 - INFO - Successfully scraped Google results for college: NIT Hamirpur - National Institute of Technology
+2024-02-29 23:27:12,885 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:13,364 - INFO - Successfully scraped Google results for college: JNTUK Kakinada - Jawaharlal Nehru Technological University
+2024-02-29 23:27:13,368 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:13,761 - INFO - Successfully scraped Google results for college: Mepco Schlenk Engineering College, Sivakasi
+2024-02-29 23:27:13,766 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:14,187 - INFO - Successfully scraped Google results for college: BVUCOE Pune - Bharati Vidyapeeth Deemed University College of Engineering
+2024-02-29 23:27:14,191 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:14,599 - INFO - Successfully scraped Google results for college: NIT Uttarakhand - National Institute of Technology
+2024-02-29 23:27:14,603 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:15,122 - INFO - Successfully scraped Google results for college: Amity University, Jaipur
+2024-02-29 23:27:15,128 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:15,636 - INFO - Successfully scraped Google results for college: DAIICT Gandhinagar - Dhirubhai Ambani Institute of Information and Communication Technology
+2024-02-29 23:27:15,640 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:16,109 - INFO - Successfully scraped Google results for college: NMIMS Mumbai - Narsee Monjee Institute of Management Studies
+2024-02-29 23:27:16,114 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:16,578 - INFO - Successfully scraped Google results for college: NIT Puducherry - National Institute of Technology Puducherry Karaikal
+2024-02-29 23:27:16,583 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:17,191 - INFO - Successfully scraped Google results for college: PESCE Mandya - PES College of Engineering
+2024-02-29 23:27:17,195 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:17,682 - INFO - Successfully scraped Google results for college: JUIT Solan - Jaypee University of Information Technology
+2024-02-29 23:27:17,687 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:18,162 - INFO - Successfully scraped Google results for college: CEC Landran - Chandigarh Engineering College, Landran Campus
+2024-02-29 23:27:18,167 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:18,706 - INFO - Successfully scraped Google results for college: Anurag University, Hyderabad
+2024-02-29 23:27:18,711 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:19,424 - INFO - Successfully scraped Google results for college: VRSEC Vijayawada - Velagapudi Ramakrishna Siddhartha Engineering College
+2024-02-29 23:27:19,428 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:19,852 - INFO - Successfully scraped Google results for college: VIT Pune - Vishwakarma Institute of Technology
+2024-02-29 23:27:19,857 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:20,450 - INFO - Successfully scraped Google results for college: YMCA Faridabad - JC Bose University of Science and Technology, YMCA
+2024-02-29 23:27:20,457 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:20,994 - INFO - Successfully scraped Google results for college: Chitkara University Chandigarh - Chitkara University
+2024-02-29 23:27:21,000 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:21,676 - INFO - Successfully scraped Google results for college: NIET Greater Noida - Noida Institute of Engineering and Technology
+2024-02-29 23:27:21,681 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:22,290 - INFO - Successfully scraped Google results for college: RCOEM Nagpur - Shri Ramdeobaba College of Engineering and Management
+2024-02-29 23:27:22,295 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:22,802 - INFO - Successfully scraped Google results for college: Galgotias University, Greater Noida
+2024-02-29 23:27:22,806 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:23,418 - INFO - Successfully scraped Google results for college: GRIET Hyderabad - Gokaraju Rangaraju Institute of Engineering and Technology
+2024-02-29 23:27:23,423 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:23,928 - INFO - Successfully scraped Google results for college: MSU Baroda - Maharaja Sayajirao University of Baroda
+2024-02-29 23:27:23,933 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:24,443 - INFO - Successfully scraped Google results for college: NIFFT Ranchi - National Institute of Advanced Manufacturing Technology
+2024-02-29 23:27:24,446 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:24,952 - INFO - Successfully scraped Google results for college: PEC Puducherry - Puducherry Technological University
+2024-02-29 23:27:24,956 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:25,362 - INFO - Successfully scraped Google results for college: HITS Chennai - Hindustan Institute of Technology and Science
+2024-02-29 23:27:25,366 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:25,875 - INFO - Successfully scraped Google results for college: Amity University, Gwalior
+2024-02-29 23:27:25,879 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:26,389 - INFO - Successfully scraped Google results for college: Mahindra University, Hyderabad
+2024-02-29 23:27:26,394 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:26,901 - INFO - Successfully scraped Google results for college: RMK Engineering College, Thiruvallur
+2024-02-29 23:27:26,906 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:27,411 - INFO - Successfully scraped Google results for college: SIMATS Chennai - Saveetha Institute of Medical and Technical Sciences
+2024-02-29 23:27:27,415 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:28,003 - INFO - Successfully scraped Google results for college: Sri Sai Ram Engineering College, Chennai
+2024-02-29 23:27:28,005 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:28,639 - INFO - Successfully scraped Google results for college: JSS Science and Technology University, Mysuru
+2024-02-29 23:27:28,644 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:29,309 - INFO - Successfully scraped Google results for college: Vels University Chennai - Vel's Institute of Science Technology and Advanced Studies
+2024-02-29 23:27:29,314 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:29,923 - INFO - Successfully scraped Google results for college: GCT Coimbatore - Government College of Technology
+2024-02-29 23:27:29,927 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:30,599 - INFO - Successfully scraped Google results for college: Silicon Institute of Technology, Bhubaneswar
+2024-02-29 23:27:30,604 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:31,314 - INFO - Successfully scraped Google results for college: Vardhaman College of Engineering, Hyderabad
+2024-02-29 23:27:31,320 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:31,816 - INFO - Successfully scraped Google results for college: GHRCE Nagpur - GH Raisoni College of Engineering
+2024-02-29 23:27:31,819 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:32,326 - INFO - Successfully scraped Google results for college: Sharda University, Greater Noida
+2024-02-29 23:27:32,331 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:32,840 - INFO - Successfully scraped Google results for college: Sree Vidyanikethan Engineering College, Tirupati (SVEC Tirupati) - School of Engineering and Technology, Mohan Babu University
+2024-02-29 23:27:32,844 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:33,350 - INFO - Successfully scraped Google results for college: CBIT Hyderabad - Chaitanya Bharathi Institute of Technology
+2024-02-29 23:27:33,355 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:33,686 - INFO - Successfully scraped Google results for college: Rabindranath Tagore University, Raisen
+2024-02-29 23:27:33,692 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:34,168 - INFO - Successfully scraped Google results for college: SPIT Mumbai - Sardar Patel Institute of Technology
+2024-02-29 23:27:34,172 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:34,682 - INFO - Successfully scraped Google results for college: NEC Kovilpatti - National Engineering College
+2024-02-29 23:27:34,686 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:35,398 - INFO - Successfully scraped Google results for college: CVR College of Engineering, Hyderabad
+2024-02-29 23:27:35,402 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:35,911 - INFO - Successfully scraped Google results for college: NIT Arunachal Pradesh - National Institute of Technology
+2024-02-29 23:27:35,916 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:36,424 - INFO - Successfully scraped Google results for college: AIT Pune - Army Institute of Technology
+2024-02-29 23:27:36,428 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:36,979 - INFO - Successfully scraped Google results for college: NIT Sikkim - National Institute of Technology
+2024-02-29 23:27:36,984 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:37,443 - INFO - Successfully scraped Google results for college: Sona College of Technology, Salem
+2024-02-29 23:27:37,446 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:38,163 - INFO - Successfully scraped Google results for college: CIT Chennai - Chennai Institute of Technology
+2024-02-29 23:27:38,168 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:38,573 - INFO - Successfully scraped Google results for college: NMAM Institute of Technology, Karkala Taluk
+2024-02-29 23:27:38,577 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:39,086 - INFO - Successfully scraped Google results for college: IGDTUW Delhi - Indira Gandhi Delhi Technical University for Women
+2024-02-29 23:27:39,090 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:39,514 - INFO - Successfully scraped Google results for college: SLIET Longowal - Sant Longowal Institute of Engineering and Technology
+2024-02-29 23:27:39,525 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:39,938 - INFO - Successfully scraped Google results for college: DIT University, Dehradun
+2024-02-29 23:27:39,943 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:40,416 - INFO - Successfully scraped Google results for college: CMRIT Bangalore - CMR Institute of Technology
+2024-02-29 23:27:40,421 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:40,813 - INFO - Successfully scraped Google results for college: Easwari Engineering College, Chennai
+2024-02-29 23:27:40,816 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:41,337 - INFO - Successfully scraped Google results for college: RGIPT Amethi - Rajiv Gandhi Institute of Petroleum Technology
+2024-02-29 23:27:41,339 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:41,951 - INFO - Successfully scraped Google results for college: NMIT Bangalore - Nitte Meenakshi Institute of Technology
+2024-02-29 23:27:41,955 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:42,566 - INFO - Successfully scraped Google results for college: IIITDM Kancheepuram - Indian Institute of Information Technology Design and Manufacturing
+2024-02-29 23:27:42,570 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:43,059 - INFO - Successfully scraped Google results for college: YCCE Nagpur - Yeshwantrao Chavan College of Engineering
+2024-02-29 23:27:43,062 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:43,488 - INFO - Successfully scraped Google results for college: GLA University, Mathura
+2024-02-29 23:27:43,492 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:43,984 - INFO - Successfully scraped Google results for college: KIET Group of Institutions, Ghaziabad (KIET Ghaziabad) - KIET Group of Institutions
+2024-02-29 23:27:43,988 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:44,344 - INFO - Successfully scraped Google results for college: GMRIT Rajam - GMR Institute of Technology
+2024-02-29 23:27:44,348 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:44,921 - INFO - Successfully scraped Google results for college: Christ University, Bangalore
+2024-02-29 23:27:44,926 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:45,336 - INFO - Successfully scraped Google results for college: IITRAM Ahmedabad - Institute of Infrastructure Technology Research and Management
+2024-02-29 23:27:45,340 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:45,950 - INFO - Successfully scraped Google results for college: MMU Ambala - Maharishi Markandeshwar University
+2024-02-29 23:27:45,954 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:46,389 - INFO - Successfully scraped Google results for college: GCET Greater Noida - Galgotias College of Engineering and Technology
+2024-02-29 23:27:46,393 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:46,971 - INFO - Successfully scraped Google results for college: DYPIET Pimpri - Dr DY Patil Institute of Technology
+2024-02-29 23:27:46,975 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:47,480 - INFO - Successfully scraped Google results for college: NIT Delhi - National Institute of Technology
+2024-02-29 23:27:47,484 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:48,094 - INFO - Successfully scraped Google results for college: GL Bajaj Institute of Technology and Management, Greater Noida
+2024-02-29 23:27:48,099 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:48,711 - INFO - Successfully scraped Google results for college: KLE Technological University, Hubballi
+2024-02-29 23:27:48,716 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:49,323 - INFO - Successfully scraped Google results for college: DJSCE Mumbai - Dwarkadas J Sanghvi College of Engineering
+2024-02-29 23:27:49,327 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:49,836 - INFO - Successfully scraped Google results for college: SVCET Chittoor - Sri Venkateswara College of Engineering and Technology
+2024-02-29 23:27:49,840 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:50,263 - INFO - Successfully scraped Google results for college: BMSIT Bangalore - BMS Institute of Technology and Management
+2024-02-29 23:27:50,268 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:50,965 - INFO - Successfully scraped Google results for college: VJIT Hyderabad - Vidya Jyothi Institute of Technology
+2024-02-29 23:27:50,970 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:51,477 - INFO - Successfully scraped Google results for college: Annamalai University, Annamalai Nagar
+2024-02-29 23:27:51,482 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:51,956 - INFO - Successfully scraped Google results for college: BNMIT Bangalore - BNM Institute of Technology
+2024-02-29 23:27:51,961 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:52,497 - INFO - Successfully scraped Google results for college: BVRIT Narsapur - BV Raju Institute of Technology
+2024-02-29 23:27:52,503 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:53,217 - INFO - Successfully scraped Google results for college: BVRIT Hyderabad - BVRIT Hyderabad College of Engineering for Women
+2024-02-29 23:27:53,222 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:53,830 - INFO - Successfully scraped Google results for college: Bangalore University, Bangalore
+2024-02-29 23:27:53,834 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:54,341 - INFO - Successfully scraped Google results for college: CMR College of Engineering and Technology, Hyderabad
+2024-02-29 23:27:54,345 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:54,959 - INFO - Successfully scraped Google results for college: CMR Institute of Technology, Hyderabad
+2024-02-29 23:27:54,964 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:55,774 - INFO - Successfully scraped Google results for college: CMR Technical Campus, Hyderabad
+2024-02-29 23:27:55,776 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:56,391 - INFO - Successfully scraped Google results for college: CUTM Paralakhemundi - Centurion University of Technology and Management
+2024-02-29 23:27:56,396 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:56,917 - INFO - Successfully scraped Google results for college: CTAE Udaipur - College of Technology and Engineering Maharana Pratap University of Agriculture and Technology
+2024-02-29 23:27:56,919 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:57,415 - INFO - Successfully scraped Google results for college: Dr BC Roy Engineering College, Durgapur
+2024-02-29 23:27:57,416 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:58,030 - INFO - Successfully scraped Google results for college: Dr MGR Educational and Research Institute, Chennai
+2024-02-29 23:27:58,033 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:58,644 - INFO - Successfully scraped Google results for college: GITA Bhubaneswar - Gandhi Institute for Technological Advancement
+2024-02-29 23:27:58,648 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:59,158 - INFO - Successfully scraped Google results for college: GIET Rajahmundry - Godavari Institute of Engineering and Technology
+2024-02-29 23:27:59,163 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:27:59,670 - INFO - Successfully scraped Google results for college: GEC Thrissur - Government Engineering College
+2024-02-29 23:27:59,675 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:00,179 - INFO - Successfully scraped Google results for college: GNIT Kolkata - Guru Nanak Institute of Technology
+2024-02-29 23:28:00,182 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:00,792 - INFO - Successfully scraped Google results for college: HIT Kolkata - Heritage Institute of Technology
+2024-02-29 23:28:00,795 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:01,307 - INFO - Successfully scraped Google results for college: IARE Hyderabad - Institute of Aeronautical Engineering
+2024-02-29 23:28:01,310 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:01,482 - ERROR - Error scraping Google results for college: IEM Kolkata - Institute of Engineering and Management, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=IEM+Kolkata+-+Institute+of+Engineering+and+Management+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:01,485 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:01,653 - ERROR - Error scraping Google results for college: IIIT Bhubaneswar - International Institute of Information Technology, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=IIIT+Bhubaneswar+-+International+Institute+of+Information+Technology+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:01,657 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:01,829 - ERROR - Error scraping Google results for college: JIS College of Engineering, Nadia, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=JIS+College+of+Engineering%2C+Nadia+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:01,833 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:02,008 - ERROR - Error scraping Google results for college: JNTUA CEA Anantapur - JNTUA College of Engineering, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=JNTUA+CEA+Anantapur+-+JNTUA+College+of+Engineering+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:02,013 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:02,534 - INFO - Successfully scraped Google results for college: JNTUCEK Kakinada - Jawaharlal Nehru Technological University College of Engineering
+2024-02-29 23:28:02,536 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:02,700 - ERROR - Error scraping Google results for college: KPRIET Coimbatore - KPR Institute of Engineering and Technology, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=KPRIET+Coimbatore+-+KPR+Institute+of+Engineering+and+Technology+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:02,704 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:02,875 - ERROR - Error scraping Google results for college: KITSW Warangal - Kakatiya Institute of Technology and Science, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=KITSW+Warangal+-+Kakatiya+Institute+of+Technology+and+Science+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:02,877 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:03,038 - ERROR - Error scraping Google results for college: MKSSS's Cummins College of Engineering for Women, Pune, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=MKSSS%27s+Cummins+College+of+Engineering+for+Women%2C+Pune+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:03,041 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:03,206 - ERROR - Error scraping Google results for college: MAIT Delhi - Maharaja Agrasen Institute of Technology, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=MAIT+Delhi+-+Maharaja+Agrasen+Institute+of+Technology+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:03,209 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:03,374 - ERROR - Error scraping Google results for college: Malla Reddy Engineering College, Secunderabad, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Malla+Reddy+Engineering+College%2C+Secunderabad+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:03,378 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:03,547 - ERROR - Error scraping Google results for college: Maulana Abul Kalam Azad University of Technology, Kolkata, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Maulana+Abul+Kalam+Azad+University+of+Technology%2C+Kolkata+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:03,549 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:03,693 - ERROR - Error scraping Google results for college: NIT Kolkata - Narula Institute of Technology, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=NIT+Kolkata+-+Narula+Institute+of+Technology+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:03,695 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:03,841 - ERROR - Error scraping Google results for college: NIT Nagaland - National Institute of Technology, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=NIT+Nagaland+-+National+Institute+of+Technology+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:03,843 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:04,002 - ERROR - Error scraping Google results for college: NERIST Nirjuli - North Eastern Regional Institute of Science and Technology, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=NERIST+Nirjuli+-+North+Eastern+Regional+Institute+of+Science+and+Technology+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:04,004 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:04,168 - ERROR - Error scraping Google results for college: Panimalar Engineering College, Chennai, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Panimalar+Engineering+College%2C+Chennai+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:04,170 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:04,328 - ERROR - Error scraping Google results for college: PVPSIT Vijayawada - Prasad V Potluri Siddhartha Institute of Technology, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=PVPSIT+Vijayawada+-+Prasad+V+Potluri+Siddhartha+Institute+of+Technology+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:04,330 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:04,488 - ERROR - Error scraping Google results for college: RMD Engineering College, Thiruvallur, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=RMD+Engineering+College%2C+Thiruvallur+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:04,490 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:04,655 - ERROR - Error scraping Google results for college: RMKCET Thiruvallur - RMK College of Engineering and Technology, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=RMKCET+Thiruvallur+-+RMK+College+of+Engineering+and+Technology+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:04,657 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:04,804 - ERROR - Error scraping Google results for college: RVR and JC College of Engineering, Guntur, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=RVR+and+JC+College+of+Engineering%2C+Guntur+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:04,806 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:04,967 - ERROR - Error scraping Google results for college: RSET Kochi - Rajagiri School of Engineering and Technology, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=RSET+Kochi+-+Rajagiri+School+of+Engineering+and+Technology+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:04,969 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:05,124 - ERROR - Error scraping Google results for college: RIT Chennai - Rajalakshmi Institute of Technology, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=RIT+Chennai+-+Rajalakshmi+Institute+of+Technology+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:05,126 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:05,281 - ERROR - Error scraping Google results for college: RGMCET Kurnool - Rajeev Gandhi Memorial College of Engineering and Technology, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=RGMCET+Kurnool+-+Rajeev+Gandhi+Memorial+College+of+Engineering+and+Technology+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:05,283 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:05,443 - ERROR - Error scraping Google results for college: SNS College of Technology, Coimbatore, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=SNS+College+of+Technology%2C+Coimbatore+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:05,446 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:05,611 - ERROR - Error scraping Google results for college: SGSITS Indore - Shri Govindram Seksaria Institute of Technology and Science, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=SGSITS+Indore+-+Shri+Govindram+Seksaria+Institute+of+Technology+and+Science+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:05,613 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:05,765 - ERROR - Error scraping Google results for college: SVECW Bhimavaram - Shri Vishnu Engineering College for Women, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=SVECW+Bhimavaram+-+Shri+Vishnu+Engineering+College+for+Women+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:05,767 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:05,924 - ERROR - Error scraping Google results for college: SMIT Sikkim - Sikkim Manipal Institute of Technology, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=SMIT+Sikkim+-+Sikkim+Manipal+Institute+of+Technology+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:05,925 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:06,082 - ERROR - Error scraping Google results for college: Sri Ramakrishna Engineering College, Coimbatore, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Sri+Ramakrishna+Engineering+College%2C+Coimbatore+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:06,084 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:06,241 - ERROR - Error scraping Google results for college: Sri Sai Ram Institute of Technology, Chennai, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Sri+Sai+Ram+Institute+of+Technology%2C+Chennai+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:06,243 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:06,399 - ERROR - Error scraping Google results for college: SVCE Sriperumbudur - Sri Venkateswara College of Engineering, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=SVCE+Sriperumbudur+-+Sri+Venkateswara+College+of+Engineering+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:06,401 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:06,557 - ERROR - Error scraping Google results for college: NIE Mysore - The National Institute of Engineering, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=NIE+Mysore+-+The+National+Institute+of+Engineering+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:06,559 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:06,723 - ERROR - Error scraping Google results for college: Vignan Institute of Technology and Science, Nalgonda, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Vignan+Institute+of+Technology+and+Science%2C+Nalgonda+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:06,725 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:06,889 - ERROR - Error scraping Google results for college: Walchand College of Engineering, Sangli, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Walchand+College+of+Engineering%2C+Sangli+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:06,890 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:07,048 - ERROR - Error scraping Google results for college: ABES Engineering College, Ghaziabad, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=ABES+Engineering+College%2C+Ghaziabad+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:07,050 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:07,204 - ERROR - Error scraping Google results for college: AMET University Kanathur - Academy of Maritime Education and Training, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=AMET+University+Kanathur+-+Academy+of+Maritime+Education+and+Training+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:07,205 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:07,361 - ERROR - Error scraping Google results for college: Ajeenkya DY Patil School of Engineering, Pune, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Ajeenkya+DY+Patil+School+of+Engineering%2C+Pune+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:07,363 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:07,529 - ERROR - Error scraping Google results for college: Alliance University, Bangalore, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Alliance+University%2C+Bangalore+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:07,532 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:07,701 - ERROR - Error scraping Google results for college: ANITS Visakhapatnam - Anil Neerukonda Institute of Technology and Sciences, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=ANITS+Visakhapatnam+-+Anil+Neerukonda+Institute+of+Technology+and+Sciences+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:07,704 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:07,866 - ERROR - Error scraping Google results for college: BIT Sindri, Dhanbad, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=BIT+Sindri%2C+Dhanbad+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:07,870 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:08,371 - INFO - Successfully scraped Google results for college: BEC Bagalkot - BVV Sangha's  Basaveshwar Engineering College
+2024-02-29 23:28:08,374 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:08,882 - INFO - Successfully scraped Google results for college: CMR Engineering College, Hyderabad
+2024-02-29 23:28:08,887 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:09,499 - INFO - Successfully scraped Google results for college: EGS Pillay Engineering College, Nagapattinam
+2024-02-29 23:28:09,503 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:10,008 - INFO - Successfully scraped Google results for college: GNITS Hyderabad - G Narayanamma Institute of Technology and Science For Women
+2024-02-29 23:28:10,010 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:10,439 - INFO - Successfully scraped Google results for college: GPREC Kurnool - G Pulla Reddy Engineering College
+2024-02-29 23:28:10,441 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:10,888 - INFO - Successfully scraped Google results for college: GBPEC Delhi - GB Pant Government Engineering College
+2024-02-29 23:28:10,890 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:11,044 - ERROR - Error scraping Google results for college: GIET University, Gunupur, error: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=GIET+University%2C+Gunupur+common+dataset&cx=e371d4eec492c4a5c&key=AIzaSyBRA7z4FbTu-Nxp-CRJmq1PCYBthjLEQ3k&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:792540798900'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2024-02-29 23:28:11,047 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:11,470 - INFO - Successfully scraped Google results for college: GVPCE Visakhapatnam - Gayatri Vidya Parishad College of Engineering
+2024-02-29 23:28:11,473 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:11,952 - INFO - Successfully scraped Google results for college: Haldia Institute of Technology (HIT) Haldia - Haldia Institute of Technology
+2024-02-29 23:28:11,956 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:12,466 - INFO - Successfully scraped Google results for college: Integral University, Lucknow
+2024-02-29 23:28:12,469 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:12,873 - INFO - Successfully scraped Google results for college: JSSATE Noida - JSS Academy of Technical Education
+2024-02-29 23:28:12,877 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:13,299 - INFO - Successfully scraped Google results for college: K Ramakrishnan College of Engineering, Tiruchirappalli
+2024-02-29 23:28:13,303 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:13,788 - INFO - Successfully scraped Google results for college: KJ Somaiya College of Engineering, Mumbai
+2024-02-29 23:28:13,792 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:14,215 - INFO - Successfully scraped Google results for college: KLS GIT Belagavi - KLS Gogte Institute of Technology
+2024-02-29 23:28:14,218 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:14,822 - INFO - Successfully scraped Google results for college: KIT Coimbatore - Kalaignar Karunanidhi Institute of Technology
+2024-02-29 23:28:14,828 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:15,441 - INFO - Successfully scraped Google results for college: Karpagam College of Engineering, Coimbatore
+2024-02-29 23:28:15,445 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:15,952 - INFO - Successfully scraped Google results for college: KUK Kurukshetra - Kurukshetra University
+2024-02-29 23:28:15,956 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:16,462 - INFO - Successfully scraped Google results for college: LNMIIT Jaipur - LNM Institute of Information Technology
+2024-02-29 23:28:16,467 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:16,977 - INFO - Successfully scraped Google results for college: LBRCE Mylavaram - Lakireddy Bali Reddy College of Engineering
+2024-02-29 23:28:16,981 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:17,497 - INFO - Successfully scraped Google results for college: LNCT Bhopal - Lakshmi Narain College of Technology
+2024-02-29 23:28:17,502 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:18,068 - INFO - Successfully scraped Google results for college: LIT Nagpur - Laxminarayan Institute of Technology
+2024-02-29 23:28:18,073 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:18,715 - INFO - Successfully scraped Google results for college: MMMUT Gorakhpur - Madan Mohan Malaviya University of Technology
+2024-02-29 23:28:18,720 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:19,267 - INFO - Successfully scraped Google results for college: MITS Madanapalle - Madanapalle Institute of Technology and Science
+2024-02-29 23:28:19,272 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:19,741 - INFO - Successfully scraped Google results for college: MGIT Hyderabad - Mahatma Gandhi Institute of Technology
+2024-02-29 23:28:19,746 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:20,455 - INFO - Successfully scraped Google results for college: MRCET Hyderabad - Malla Reddy College of Engineering and Technology
+2024-02-29 23:28:20,459 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:20,965 - INFO - Successfully scraped Google results for college: Manav Rachna University, Faridabad
+2024-02-29 23:28:20,970 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:21,582 - INFO - Successfully scraped Google results for college: MITS Ernakulam - Muthoot Institute of Technology and Science
+2024-02-29 23:28:21,587 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:22,030 - INFO - Successfully scraped Google results for college: Narasaraopeta Engineering College, Narasaraopet
+2024-02-29 23:28:22,034 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:22,606 - INFO - Successfully scraped Google results for college: NIT Andhra Pradesh - National Institute of Technology
+2024-02-29 23:28:22,610 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:23,145 - INFO - Successfully scraped Google results for college: PCCOE Pune - Pimpri Chinchwad College of Engineering
+2024-02-29 23:28:23,150 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:23,730 - INFO - Successfully scraped Google results for college: Prof Ram Meghe Institute of Technology and Research, Badnera
+2024-02-29 23:28:23,735 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:24,242 - INFO - Successfully scraped Google results for college: QISCET Ongole - QIS College of Engineering and Technology
+2024-02-29 23:28:24,246 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:24,754 - INFO - Successfully scraped Google results for college: JSPM's Rajarshi Shahu College of Engineering Tathawade - Rajarshi Shahu College of Engineering
+2024-02-29 23:28:24,759 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:25,369 - INFO - Successfully scraped Google results for college: RGPV Bhopal - Rajiv Gandhi Proudyogiki Vishwavidyalaya
+2024-02-29 23:28:25,374 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:25,984 - INFO - Successfully scraped Google results for college: RAIT Navi Mumbai - Ramrao Adik Institute of Technology
+2024-02-29 23:28:25,989 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:26,498 - INFO - Successfully scraped Google results for college: SDMCET Dharwad - SDM College of Engineering and Technology
+2024-02-29 23:28:26,503 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:26,954 - INFO - Successfully scraped Google results for college: SRKR Engineering College - Sagi Ramakrishnam Raju Engineering College
+2024-02-29 23:28:26,959 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:27,420 - INFO - Successfully scraped Google results for college: Siddhartha Institute of Technology and Sciences, Ghatkesar
+2024-02-29 23:28:27,424 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:27,871 - INFO - Successfully scraped Google results for college: Sri Guru Granth Sahib World University, Fatehgarh Sahib
+2024-02-29 23:28:27,875 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:28,543 - INFO - Successfully scraped Google results for college: SVU Tirupati - Sri Venkateswara University
+2024-02-29 23:28:28,547 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:29,160 - INFO - Successfully scraped Google results for college: St Joseph's College of Engineering, Chennai
+2024-02-29 23:28:29,164 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:29,670 - INFO - Successfully scraped Google results for college: TKM College of Engineering, Kollam
+2024-02-29 23:28:29,675 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:30,108 - INFO - Successfully scraped Google results for college: Vasavi College of Engineering, Hyderabad
+2024-02-29 23:28:30,113 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:28:30,591 - INFO - Successfully scraped Google results for college: VVCE Mysore - Vidyavardhaka College of Engineering

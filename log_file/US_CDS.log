@@ -1,0 +1,385 @@
+2024-02-29 22:55:35,036 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:35,696 - INFO - Successfully scraped Google results for college: Agnes Scott College CDS  2022-2023.pdf
+2024-02-29 22:55:35,704 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:36,131 - INFO - Successfully scraped Google results for college: Albion College CDS 2022-2023.xlsx
+2024-02-29 22:55:36,135 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:36,790 - INFO - Successfully scraped Google results for college: Alfred University CDS 2022-2023.pdf
+2024-02-29 22:55:36,794 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:37,331 - INFO - Successfully scraped Google results for college: Allegheny College CDS 2022-2023.xlsx
+2024-02-29 22:55:37,334 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:37,733 - INFO - Successfully scraped Google results for college: Alma College CDS 2022-2023
+2024-02-29 22:55:37,737 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:38,252 - INFO - Successfully scraped Google results for college: Alma College CDS 2022-2023.pdf
+2024-02-29 22:55:38,256 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:38,753 - INFO - Successfully scraped Google results for college: American International College CDS   2022-2023
+2024-02-29 22:55:38,756 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:39,276 - INFO - Successfully scraped Google results for college: American University CDS   2022-2023.pdf
+2024-02-29 22:55:39,281 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:39,788 - INFO - Successfully scraped Google results for college: Amherst College CDS 2022-2023
+2024-02-29 22:55:39,791 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:40,334 - INFO - Successfully scraped Google results for college: Amherst College CDS 2022-2023.pdf
+2024-02-29 22:55:40,339 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:41,014 - INFO - Successfully scraped Google results for college: Aquinas College CDS 2022-2023.pdf
+2024-02-29 22:55:41,018 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:41,733 - INFO - Successfully scraped Google results for college: Arizona State University ASU Campus   Immersion CDS 2022-2023.pdf
+2024-02-29 22:55:41,737 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:42,346 - INFO - Successfully scraped Google results for college: Arkansas State University CDS   2022-2023.pdf
+2024-02-29 22:55:42,349 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:43,075 - INFO - Successfully scraped Google results for college: Auburn University at Montgomery CDS   2022-2023.pdf
+2024-02-29 22:55:43,077 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:43,701 - INFO - Successfully scraped Google results for college: Auburn University CDS 2022-2023
+2024-02-29 22:55:43,706 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:44,293 - INFO - Successfully scraped Google results for college: Auburn University CDS 2022-2023.pdf
+2024-02-29 22:55:44,297 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:44,806 - INFO - Successfully scraped Google results for college: Augustana College CDS 2022-2023.pdf
+2024-02-29 22:55:44,810 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:45,342 - INFO - Successfully scraped Google results for college: Austin College CDS 2022-2023.pdf
+2024-02-29 22:55:45,346 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:45,813 - INFO - Successfully scraped Google results for college: Babson College CDS 2022-2023.pdf
+2024-02-29 22:55:45,818 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:46,444 - INFO - Successfully scraped Google results for college: Ball State University CDS   2022-2023.pdf
+2024-02-29 22:55:46,448 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:46,914 - INFO - Successfully scraped Google results for college: Barnard College CDS 2022-2023.pdf
+2024-02-29 22:55:46,918 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:47,474 - INFO - Successfully scraped Google results for college: Barton College CDS 2022-2023.pdf
+2024-02-29 22:55:47,480 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:47,991 - INFO - Successfully scraped Google results for college: Bates College CDS 2022-2023.pdf
+2024-02-29 22:55:47,994 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:48,490 - INFO - Successfully scraped Google results for college: Baylor University CDS 2022-2023.pdf
+2024-02-29 22:55:48,495 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:49,183 - INFO - Successfully scraped Google results for college: Belmont University CDS_2022-2023.pdf
+2024-02-29 22:55:49,191 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:49,823 - INFO - Successfully scraped Google results for college: Beloit College CDS 2022-23.pdf
+2024-02-29 22:55:49,828 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:50,337 - INFO - Successfully scraped Google results for college: Bennington College CDS   2022-2023.pdf
+2024-02-29 22:55:50,342 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:50,846 - INFO - Successfully scraped Google results for college: Bentley University CDS 2022-2023.pdf
+2024-02-29 22:55:50,850 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:51,278 - INFO - Successfully scraped Google results for college: Biola University CDS 2022-2023.xlsx
+2024-02-29 22:55:51,283 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:51,872 - INFO - Successfully scraped Google results for college: Boise State University CDS   2022-2023.pdf
+2024-02-29 22:55:51,877 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:52,381 - INFO - Successfully scraped Google results for college: Boston University CDS 2022-2023.pdf
+2024-02-29 22:55:52,386 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:52,895 - INFO - Successfully scraped Google results for college: Bowdoin College CDS 2022-2023.pdf
+2024-02-29 22:55:52,900 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:53,409 - INFO - Successfully scraped Google results for college: Bowling Green State University CDS   2022-2023.pdf
+2024-02-29 22:55:53,414 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:54,229 - INFO - Successfully scraped Google results for college: Bradley University CDS 2022-2023.pdf
+2024-02-29 22:55:54,234 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:54,739 - INFO - Successfully scraped Google results for college: Brandeis University CDS   2022-2023.pdf
+2024-02-29 22:55:54,744 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:55,389 - INFO - Successfully scraped Google results for college: Brigham Young University CDS   2022-2023-pdf.pdf
+2024-02-29 22:55:55,394 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:55,965 - INFO - Successfully scraped Google results for college: Brown University CDS 2022-2023.pdf
+2024-02-29 22:55:55,970 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:56,487 - INFO - Successfully scraped Google results for college: Bryan Mawr College CDS 2022-2023.pdf
+2024-02-29 22:55:56,492 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:56,991 - INFO - Successfully scraped Google results for college: Bucknell University CDS   2022-2023.pdf
+2024-02-29 22:55:56,995 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:57,503 - INFO - Successfully scraped Google results for college: Butler University CDS 2022-2023
+2024-02-29 22:55:57,506 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:58,117 - INFO - Successfully scraped Google results for college: Cal Poly-Pomona CDS 2022-2023.pdf
+2024-02-29 22:55:58,122 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:58,733 - INFO - Successfully scraped Google results for college: Cal Poly-San Luis Obispo CDS   2022-2023.pdf
+2024-02-29 22:55:58,738 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:59,278 - INFO - Successfully scraped Google results for college: California Baptist University CDS   2022-2023.pdf
+2024-02-29 22:55:59,282 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:55:59,729 - INFO - Successfully scraped Google results for college: California Institute of Technology   (Caltech) CDS 2022-2023.pdf
+2024-02-29 22:55:59,732 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:56:00,320 - INFO - Successfully scraped Google results for college: California Lutheran University CDS   2022-2023.pdf
+2024-02-29 22:56:00,325 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:56:00,881 - INFO - Successfully scraped Google results for college: California State University CSU   Bakersfield CDS 2022-2023.pdf
+2024-02-29 22:56:00,883 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:56:01,303 - INFO - Successfully scraped Google results for college: California State University CSU   Fullerton CDS 2022-2023.xlsx
+2024-02-29 22:56:01,308 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:56:02,080 - INFO - Successfully scraped Google results for college: California State University CSU   Northridge CDS 2022-2023.xlsx
+2024-02-29 22:56:02,083 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:56:02,624 - INFO - Successfully scraped Google results for college: California State University   CSU-Chico CDS 2022-2023.pdf
+2024-02-29 22:56:02,628 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:56:03,198 - INFO - Successfully scraped Google results for college: California State University   CSU-Dominguez Hills.pdf
+2024-02-29 22:56:03,203 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:56:03,849 - INFO - Successfully scraped Google results for college: California State University CSU-Long   Beach CDS 2022-2023.pdf
+2024-02-29 22:56:03,852 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:56:04,423 - INFO - Successfully scraped Google results for college: California State University CSU-San   Bernardino CDS 2022-2023.pdf
+2024-02-29 22:56:04,425 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:56:04,980 - INFO - Successfully scraped Google results for college: California State University CSU-San   Marcos CDS 2022-2023.xlsx
+2024-02-29 22:56:04,983 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:56:05,699 - INFO - Successfully scraped Google results for college: California State University-Los Angeles Cal State LA CDS 2022-2023.pdf
+2024-02-29 22:56:05,701 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 22:56:06,188 - INFO - Successfully scraped Google results for college: California State   University-Sacramento State CDS 2022-2023.pdf
+2024-02-29 23:38:12,250 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:12,464 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:12,464 - ERROR - Error scraping Google results for college: Agnes Scott College CDS  2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Agnes+Scott+College+CDS+%C2%A02022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:12,476 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:12,638 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:12,638 - ERROR - Error scraping Google results for college: Albion College CDS 2022-2023.xlsx, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Albion+College+CDS+2022-2023.xlsx&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:12,640 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:12,821 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:12,821 - ERROR - Error scraping Google results for college: Alfred University CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Alfred+University+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:12,825 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:12,992 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:12,993 - ERROR - Error scraping Google results for college: Allegheny College CDS 2022-2023.xlsx, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Allegheny+College+CDS+2022-2023.xlsx&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:12,997 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:13,170 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:13,171 - ERROR - Error scraping Google results for college: Alma College CDS 2022-2023, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Alma+College+CDS+2022-2023&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:13,174 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:13,342 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:13,343 - ERROR - Error scraping Google results for college: Alma College CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Alma+College+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:13,347 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:13,513 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:13,514 - ERROR - Error scraping Google results for college: American International College CDS   2022-2023, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=American+International+College+CDS+%C2%A0%C2%A02022-2023&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:13,517 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:13,688 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:13,688 - ERROR - Error scraping Google results for college: American University CDS   2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=American+University+CDS+%C2%A0%C2%A02022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:13,691 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:13,865 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:13,865 - ERROR - Error scraping Google results for college: Amherst College CDS 2022-2023, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Amherst+College+CDS+2022-2023&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:13,868 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:14,043 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:14,043 - ERROR - Error scraping Google results for college: Amherst College CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Amherst+College+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:14,048 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:14,234 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:14,234 - ERROR - Error scraping Google results for college: Aquinas College CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Aquinas+College+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:14,239 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:14,410 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:14,410 - ERROR - Error scraping Google results for college: Arizona State University ASU Campus   Immersion CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Arizona+State+University+ASU+Campus+%C2%A0%C2%A0Immersion+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:14,414 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:14,586 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:14,587 - ERROR - Error scraping Google results for college: Arkansas State University CDS   2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Arkansas+State+University+CDS+%C2%A0%C2%A02022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:14,591 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:14,746 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:14,746 - ERROR - Error scraping Google results for college: Auburn University at Montgomery CDS   2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Auburn+University+at+Montgomery+CDS+%C2%A0%C2%A02022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:14,750 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:14,925 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:14,926 - ERROR - Error scraping Google results for college: Auburn University CDS 2022-2023, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Auburn+University+CDS+2022-2023&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:14,931 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:15,099 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:15,099 - ERROR - Error scraping Google results for college: Auburn University CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Auburn+University+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:15,103 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:15,286 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:15,286 - ERROR - Error scraping Google results for college: Augustana College CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Augustana+College+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:15,290 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:15,463 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:15,464 - ERROR - Error scraping Google results for college: Austin College CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Austin+College+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:15,468 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:15,642 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:15,642 - ERROR - Error scraping Google results for college: Babson College CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Babson+College+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:15,647 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:15,826 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:15,827 - ERROR - Error scraping Google results for college: Ball State University CDS   2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Ball+State+University+CDS+%C2%A0%C2%A02022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:15,831 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:16,002 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:16,003 - ERROR - Error scraping Google results for college: Barnard College CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Barnard+College+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:16,007 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:16,182 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:16,182 - ERROR - Error scraping Google results for college: Barton College CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Barton+College+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:16,186 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:16,355 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:16,356 - ERROR - Error scraping Google results for college: Bates College CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Bates+College+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:16,360 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:16,534 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:16,534 - ERROR - Error scraping Google results for college: Baylor University CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Baylor+University+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:16,538 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:16,703 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:16,703 - ERROR - Error scraping Google results for college: Belmont University CDS_2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Belmont+University+CDS_2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:16,707 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:16,876 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:16,876 - ERROR - Error scraping Google results for college: Beloit College CDS 2022-23.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Beloit+College+CDS+2022-23.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:16,879 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:17,056 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:17,056 - ERROR - Error scraping Google results for college: Bennington College CDS   2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Bennington+College+CDS+%C2%A0%C2%A02022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:17,061 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:17,235 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:17,235 - ERROR - Error scraping Google results for college: Bentley University CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Bentley+University+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:17,241 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:17,417 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:17,417 - ERROR - Error scraping Google results for college: Biola University CDS 2022-2023.xlsx, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Biola+University+CDS+2022-2023.xlsx&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:17,422 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:17,595 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:17,595 - ERROR - Error scraping Google results for college: Boise State University CDS   2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Boise+State+University+CDS+%C2%A0%C2%A02022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:17,597 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:17,762 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:17,762 - ERROR - Error scraping Google results for college: Boston University CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Boston+University+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:17,765 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:17,937 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:17,938 - ERROR - Error scraping Google results for college: Bowdoin College CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Bowdoin+College+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:17,943 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:18,118 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:18,119 - ERROR - Error scraping Google results for college: Bowling Green State University CDS   2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Bowling+Green+State+University+CDS+%C2%A0%C2%A02022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:18,123 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:18,294 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:18,294 - ERROR - Error scraping Google results for college: Bradley University CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Bradley+University+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:18,298 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:18,461 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:18,461 - ERROR - Error scraping Google results for college: Brandeis University CDS   2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Brandeis+University+CDS+%C2%A0%C2%A02022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:18,465 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:18,638 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:18,638 - ERROR - Error scraping Google results for college: Brigham Young University CDS   2022-2023-pdf.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Brigham+Young+University+CDS+%C2%A0%C2%A02022-2023-pdf.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:18,640 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:18,806 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:18,806 - ERROR - Error scraping Google results for college: Brown University CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Brown+University+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:18,810 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:18,983 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:18,983 - ERROR - Error scraping Google results for college: Bryan Mawr College CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Bryan+Mawr+College+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:18,987 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:19,163 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:19,163 - ERROR - Error scraping Google results for college: Bucknell University CDS   2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Bucknell+University+CDS+%C2%A0%C2%A02022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:19,168 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:19,337 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:19,338 - ERROR - Error scraping Google results for college: Butler University CDS 2022-2023, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Butler+University+CDS+2022-2023&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:19,343 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:19,528 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:19,528 - ERROR - Error scraping Google results for college: Cal Poly-Pomona CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Cal+Poly-Pomona+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:19,531 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:19,692 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:19,693 - ERROR - Error scraping Google results for college: Cal Poly-San Luis Obispo CDS   2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Cal+Poly-San+Luis+Obispo+CDS+%C2%A0%C2%A02022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:19,697 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:19,871 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:19,872 - ERROR - Error scraping Google results for college: California Baptist University CDS   2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=California+Baptist+University+CDS+%C2%A0%C2%A02022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:19,877 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:20,054 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:20,054 - ERROR - Error scraping Google results for college: California Institute of Technology   (Caltech) CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=California+Institute+of+Technology+%C2%A0%C2%A0%28Caltech%29+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:20,061 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:20,232 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:20,233 - ERROR - Error scraping Google results for college: California Lutheran University CDS   2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=California+Lutheran+University+CDS+%C2%A0%C2%A02022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:20,237 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:20,412 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:20,412 - ERROR - Error scraping Google results for college: California State University CSU   Bakersfield CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=California+State+University+CSU+%C2%A0%C2%A0Bakersfield+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:20,416 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:20,594 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:20,594 - ERROR - Error scraping Google results for college: California State University CSU   Fullerton CDS 2022-2023.xlsx, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=California+State+University+CSU+%C2%A0%C2%A0Fullerton+CDS+2022-2023.xlsx&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:20,596 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:20,760 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:20,761 - ERROR - Error scraping Google results for college: California State University CSU   Northridge CDS 2022-2023.xlsx, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=California+State+University+CSU+%C2%A0%C2%A0Northridge+CDS+2022-2023.xlsx&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:20,764 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:20,943 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:20,944 - ERROR - Error scraping Google results for college: California State University   CSU-Chico CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=California+State+University+%C2%A0%C2%A0CSU-Chico+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:20,948 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:21,122 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:21,123 - ERROR - Error scraping Google results for college: California State University   CSU-Dominguez Hills.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=California+State+University+%C2%A0%C2%A0CSU-Dominguez+Hills.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:21,129 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:21,306 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:21,306 - ERROR - Error scraping Google results for college: California State University CSU-Long   Beach CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=California+State+University+CSU-Long+%C2%A0%C2%A0Beach+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:21,310 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:21,487 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:21,487 - ERROR - Error scraping Google results for college: California State University CSU-San   Bernardino CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=California+State+University+CSU-San+%C2%A0%C2%A0Bernardino+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:21,493 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:21,660 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:21,660 - ERROR - Error scraping Google results for college: California State University CSU-San   Marcos CDS 2022-2023.xlsx, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=California+State+University+CSU-San+%C2%A0%C2%A0Marcos+CDS+2022-2023.xlsx&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:21,663 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:21,830 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:21,831 - ERROR - Error scraping Google results for college: California State University-Los Angeles Cal State LA CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=California+State+University-Los+Angeles+Cal+State+LA+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:38:21,835 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:38:22,009 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2024-02-29 23:38:22,009 - ERROR - Error scraping Google results for college: California State   University-Sacramento State CDS 2022-2023.pdf, error: <HttpError 403 when requesting https://customsearch.googleapis.com/customsearch/v1?q=California+State+%C2%A0%C2%A0University-Sacramento+State+CDS+2022-2023.pdf&alt=json returned "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.". Details: "[{'message': "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.", 'domain': 'global', 'reason': 'forbidden'}]">
+2024-02-29 23:40:27,642 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:28,217 - INFO - Successfully scraped Google results for college: Agnes Scott College CDS  2022-2023.pdf
+2024-02-29 23:40:28,220 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:28,625 - INFO - Successfully scraped Google results for college: Albion College CDS 2022-2023.xlsx
+2024-02-29 23:40:28,629 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:29,271 - INFO - Successfully scraped Google results for college: Alfred University CDS 2022-2023.pdf
+2024-02-29 23:40:29,276 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:29,782 - INFO - Successfully scraped Google results for college: Allegheny College CDS 2022-2023.xlsx
+2024-02-29 23:40:29,787 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:30,263 - INFO - Successfully scraped Google results for college: Alma College CDS 2022-2023
+2024-02-29 23:40:30,268 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:30,745 - INFO - Successfully scraped Google results for college: Alma College CDS 2022-2023.pdf
+2024-02-29 23:40:30,749 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:31,389 - INFO - Successfully scraped Google results for college: American International College CDS   2022-2023
+2024-02-29 23:40:31,393 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:31,920 - INFO - Successfully scraped Google results for college: American University CDS   2022-2023.pdf
+2024-02-29 23:40:31,922 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:32,519 - INFO - Successfully scraped Google results for college: Amherst College CDS 2022-2023
+2024-02-29 23:40:32,523 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:33,030 - INFO - Successfully scraped Google results for college: Amherst College CDS 2022-2023.pdf
+2024-02-29 23:40:33,034 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:33,540 - INFO - Successfully scraped Google results for college: Aquinas College CDS 2022-2023.pdf
+2024-02-29 23:40:33,545 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:34,153 - INFO - Successfully scraped Google results for college: Arizona State University ASU Campus   Immersion CDS 2022-2023.pdf
+2024-02-29 23:40:34,157 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:34,663 - INFO - Successfully scraped Google results for college: Arkansas State University CDS   2022-2023.pdf
+2024-02-29 23:40:34,668 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:35,279 - INFO - Successfully scraped Google results for college: Auburn University at Montgomery CDS   2022-2023.pdf
+2024-02-29 23:40:35,284 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:35,792 - INFO - Successfully scraped Google results for college: Auburn University CDS 2022-2023
+2024-02-29 23:40:35,797 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:36,306 - INFO - Successfully scraped Google results for college: Auburn University CDS 2022-2023.pdf
+2024-02-29 23:40:36,310 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:36,818 - INFO - Successfully scraped Google results for college: Augustana College CDS 2022-2023.pdf
+2024-02-29 23:40:36,822 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:37,328 - INFO - Successfully scraped Google results for college: Austin College CDS 2022-2023.pdf
+2024-02-29 23:40:37,332 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:37,738 - INFO - Successfully scraped Google results for college: Babson College CDS 2022-2023.pdf
+2024-02-29 23:40:37,742 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:38,357 - INFO - Successfully scraped Google results for college: Ball State University CDS   2022-2023.pdf
+2024-02-29 23:40:38,361 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:38,750 - INFO - Successfully scraped Google results for college: Barnard College CDS 2022-2023.pdf
+2024-02-29 23:40:38,756 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:39,277 - INFO - Successfully scraped Google results for college: Barton College CDS 2022-2023.pdf
+2024-02-29 23:40:39,283 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:39,785 - INFO - Successfully scraped Google results for college: Bates College CDS 2022-2023.pdf
+2024-02-29 23:40:39,790 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:40,216 - INFO - Successfully scraped Google results for college: Baylor University CDS 2022-2023.pdf
+2024-02-29 23:40:40,892 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:41,321 - INFO - Successfully scraped Google results for college: Belmont University CDS_2022-2023.pdf
+2024-02-29 23:40:41,326 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:41,750 - INFO - Successfully scraped Google results for college: Beloit College CDS 2022-23.pdf
+2024-02-29 23:40:41,756 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:42,199 - INFO - Successfully scraped Google results for college: Bennington College CDS   2022-2023.pdf
+2024-02-29 23:40:42,203 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:42,678 - INFO - Successfully scraped Google results for college: Bentley University CDS 2022-2023.pdf
+2024-02-29 23:40:42,683 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:43,166 - INFO - Successfully scraped Google results for college: Biola University CDS 2022-2023.xlsx
+2024-02-29 23:40:43,170 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:43,678 - INFO - Successfully scraped Google results for college: Boise State University CDS   2022-2023.pdf
+2024-02-29 23:40:43,681 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:44,085 - INFO - Successfully scraped Google results for college: Boston University CDS 2022-2023.pdf
+2024-02-29 23:40:44,090 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:44,611 - INFO - Successfully scraped Google results for college: Bowdoin College CDS 2022-2023.pdf
+2024-02-29 23:40:44,616 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:45,109 - INFO - Successfully scraped Google results for college: Bowling Green State University CDS   2022-2023.pdf
+2024-02-29 23:40:45,111 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:45,519 - INFO - Successfully scraped Google results for college: Bradley University CDS 2022-2023.pdf
+2024-02-29 23:40:45,521 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:45,987 - INFO - Successfully scraped Google results for college: Brandeis University CDS   2022-2023.pdf
+2024-02-29 23:40:45,988 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:46,441 - INFO - Successfully scraped Google results for college: Brigham Young University CDS   2022-2023-pdf.pdf
+2024-02-29 23:40:46,447 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:47,056 - INFO - Successfully scraped Google results for college: Brown University CDS 2022-2023.pdf
+2024-02-29 23:40:47,060 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:47,575 - INFO - Successfully scraped Google results for college: Bryan Mawr College CDS 2022-2023.pdf
+2024-02-29 23:40:47,581 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:48,183 - INFO - Successfully scraped Google results for college: Bucknell University CDS   2022-2023.pdf
+2024-02-29 23:40:48,187 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:48,664 - INFO - Successfully scraped Google results for college: Butler University CDS 2022-2023
+2024-02-29 23:40:48,667 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:49,086 - INFO - Successfully scraped Google results for college: Cal Poly-Pomona CDS 2022-2023.pdf
+2024-02-29 23:40:49,092 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:49,616 - INFO - Successfully scraped Google results for college: Cal Poly-San Luis Obispo CDS   2022-2023.pdf
+2024-02-29 23:40:49,619 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:50,129 - INFO - Successfully scraped Google results for college: California Baptist University CDS   2022-2023.pdf
+2024-02-29 23:40:50,132 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:50,539 - INFO - Successfully scraped Google results for college: California Institute of Technology   (Caltech) CDS 2022-2023.pdf
+2024-02-29 23:40:50,541 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:50,951 - INFO - Successfully scraped Google results for college: California Lutheran University CDS   2022-2023.pdf
+2024-02-29 23:40:50,954 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:51,461 - INFO - Successfully scraped Google results for college: California State University CSU   Bakersfield CDS 2022-2023.pdf
+2024-02-29 23:40:51,463 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:51,845 - INFO - Successfully scraped Google results for college: California State University CSU   Fullerton CDS 2022-2023.xlsx
+2024-02-29 23:40:51,847 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:52,382 - INFO - Successfully scraped Google results for college: California State University CSU   Northridge CDS 2022-2023.xlsx
+2024-02-29 23:40:52,385 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:52,995 - INFO - Successfully scraped Google results for college: California State University   CSU-Chico CDS 2022-2023.pdf
+2024-02-29 23:40:52,997 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:53,612 - INFO - Successfully scraped Google results for college: California State University   CSU-Dominguez Hills.pdf
+2024-02-29 23:40:53,617 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:54,223 - INFO - Successfully scraped Google results for college: California State University CSU-Long   Beach CDS 2022-2023.pdf
+2024-02-29 23:40:54,226 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:54,683 - INFO - Successfully scraped Google results for college: California State University CSU-San   Bernardino CDS 2022-2023.pdf
+2024-02-29 23:40:54,686 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:55,051 - INFO - Successfully scraped Google results for college: California State University CSU-San   Marcos CDS 2022-2023.xlsx
+2024-02-29 23:40:55,054 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:55,732 - INFO - Successfully scraped Google results for college: California State University-Los Angeles Cal State LA CDS 2022-2023.pdf
+2024-02-29 23:40:55,735 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-29 23:40:56,272 - INFO - Successfully scraped Google results for college: California State   University-Sacramento State CDS 2022-2023.pdf
