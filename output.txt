@@ -1,0 +1,1054 @@
+
+-------------------------------------
+Agnes Scott College CDS  2022-2023.pdf
+agnes scott college
+2022-2023
+.pdf
+https://www.agnesscott.edu/assets/documents/institutional-research/cds_2022-2023.pdf
+Successfully scraped agnes scott college cds file
+Total first-time, first-year men who applied: 0
+Total first-time, first-year women who applied: 1879
+Total first-time, first-year of another gender who applied: 0
+Total first-time, first-year men who were admitted: 0
+Total first-time, first-year women who were admitted: 1250
+Total first-time, first-year of another gender who were admitted: 0
+Total full-time, first-time, first-year men who enrolled: 0
+Total part-time, first-time, first-year men who enrolled: 0
+Total full-time, first-time, first-year women who enrolled: 276
+Total part-time, first-time, first-year women who enrolled: 0
+Total full-time, first-time, first-year of another gender who enrolled: 0
+Total part-time, first-time, first-year of another gender who enrolled: 0
+Total first-time, first-year (degree-seeking) who applied: 1879
+Total first-time, first-year (degree-seeking) who were admitted: 1250
+Total first-time, first-year (degree-seeking) enrolled: 276
+Number of qualified applicants offered a place on waiting list: 0
+Number accepting a place on the waiting list: 
+Number of wait-listed students admitted: 
+Data for agnes scott college stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 1 out of 55
+-------------------------------------
+Albion College CDS 2022-2023.xlsx
+albion college
+2022-2023
+.xlsx
+https://www.albion.edu/wp-content/uploads/2021/07/CDS_2020-2021.xlsx
+Successfully scraped albion college cds file
+Total first-time, first-year men who applied: None
+Total first-time, first-year women who applied: None
+Total first-time, first-year of another gender who applied: None
+Total first-time, first-year men who were admitted: None
+Total first-time, first-year women who were admitted: None
+Total first-time, first-year of another gender who were admitted: None
+Total full-time, first-time, first-year men who enrolled: None
+Total part-time, first-time, first-year men who enrolled: None
+Total full-time, first-time, first-year women who enrolled: None
+Total part-time, first-time, first-year women who enrolled: None
+Total full-time, first-time, first-year of another gender who enrolled: None
+Total part-time, first-time, first-year of another gender who enrolled: None
+Total first-time, first-year (degree-seeking) who applied: None
+Total first-time, first-year (degree-seeking) who were admitted: None
+Total first-time, first-year (degree-seeking) enrolled: None
+Number of qualified applicants offered a place on waiting list: 
+Number accepting a place on the waiting list: 
+Number of wait-listed students admitted: 
+Data for albion college stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 2 out of 55
+-------------------------------------
+Alfred University CDS 2022-2023.pdf
+alfred university
+2022-2023
+.pdf
+https://www.alfred.edu/about/institutional-research/_docs/alfred-university-common-data-set-2022-2023.pdf
+Successfully scraped alfred university cds file
+Total first-time, first-year men who applied: None
+Total first-time, first-year women who applied: None
+Total first-time, first-year of another gender who applied: None
+Total first-time, first-year men who were admitted: None
+Total first-time, first-year women who were admitted: None
+Total first-time, first-year of another gender who were admitted: None
+Total full-time, first-time, first-year men who enrolled: None
+Total part-time, first-time, first-year men who enrolled: None
+Total full-time, first-time, first-year women who enrolled: None
+Total part-time, first-time, first-year women who enrolled: None
+Total full-time, first-time, first-year of another gender who enrolled: None
+Total part-time, first-time, first-year of another gender who enrolled: None
+Total first-time, first-year (degree-seeking) who applied: None
+Total first-time, first-year (degree-seeking) who were admitted: None
+Total first-time, first-year (degree-seeking) enrolled: None
+Number of qualified applicants offered a place on waiting list: None
+Number accepting a place on the waiting list: 
+Number of wait-listed students admitted: None
+Data for alfred university stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 3 out of 55
+-------------------------------------
+Allegheny College CDS 2022-2023.xlsx
+allegheny college
+2022-2023
+.xlsx
+https://sites.allegheny.edu/institutionalresearch/files/2023/05/CDS_2022-2023-1.xlsx
+Successfully scraped allegheny college cds file
+Total first-time, first-year men who applied: 2038
+Total first-time, first-year women who applied: 2106
+Total first-time, first-year of another gender who applied: 2
+Total first-time, first-year men who were admitted: 1316
+Total first-time, first-year women who were admitted: 1573
+Total first-time, first-year of another gender who were admitted: 0
+Total full-time, first-time, first-year men who enrolled: 148
+Total part-time, first-time, first-year men who enrolled: 0
+Total full-time, first-time, first-year women who enrolled: 141
+Total part-time, first-time, first-year women who enrolled: 0
+Total full-time, first-time, first-year of another gender who enrolled: 
+Total part-time, first-time, first-year of another gender who enrolled: 
+Total first-time, first-year (degree-seeking) who applied: 4148
+Total first-time, first-year (degree-seeking) who were admitted: 2889
+Total first-time, first-year (degree-seeking) enrolled: 289
+Number of qualified applicants offered a place on waiting list: 48
+Number accepting a place on the waiting list: 6
+Number of wait-listed students admitted: 2
+Data for allegheny college stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 4 out of 55
+-------------------------------------
+American University CDS   2022-2023.pdf
+american university
+2022-2023
+.pdf
+https://www.american.edu/provost/oira/upload/cds_2022-2023_american-university-3.pdf
+Successfully scraped american university cds file
+Total first-time, first-year men who applied: 6354
+Total first-time, first-year women who applied: 13062
+Total first-time, first-year of another gender who applied: 94
+Total first-time, first-year men who were admitted: 2417
+Total first-time, first-year women who were admitted: 5466
+Total first-time, first-year of another gender who were admitted: 43
+Total full-time, first-time, first-year men who enrolled: 570
+Total part-time, first-time, first-year men who enrolled: 5
+Total full-time, first-time, first-year women who enrolled: 1184
+Total part-time, first-time, first-year women who enrolled: 2
+Total full-time, first-time, first-year of another gender who enrolled: 0
+Total part-time, first-time, first-year of another gender who enrolled: 0
+Total first-time, first-year (degree-seeking) who applied: 19510
+Total first-time, first-year (degree-seeking) who were admitted: 7926
+Total first-time, first-year (degree-seeking) enrolled: 1761
+Number of qualified applicants offered a place on waiting list: 9146
+Number accepting a place on the waiting list: 2086
+Number of wait-listed students admitted: 88
+Data for american university stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 5 out of 55
+-------------------------------------
+Amherst College CDS 2022-2023
+amherst college
+2022-2023
+None
+https://www.umass.edu/oir/sites/default/files/publications/cds/common_data_set.pdf
+Successfully scraped amherst college cds file
+Total first-time, first-year men who applied: 6354
+Total first-time, first-year women who applied: 13062
+Total first-time, first-year of another gender who applied: 94
+Total first-time, first-year men who were admitted: 2417
+Total first-time, first-year women who were admitted: 5466
+Total first-time, first-year of another gender who were admitted: 43
+Total full-time, first-time, first-year men who enrolled: 570
+Total part-time, first-time, first-year men who enrolled: 5
+Total full-time, first-time, first-year women who enrolled: 1184
+Total part-time, first-time, first-year women who enrolled: 2
+Total full-time, first-time, first-year of another gender who enrolled: 0
+Total part-time, first-time, first-year of another gender who enrolled: 0
+Total first-time, first-year (degree-seeking) who applied: 19510
+Total first-time, first-year (degree-seeking) who were admitted: 7926
+Total first-time, first-year (degree-seeking) enrolled: 1761
+Number of qualified applicants offered a place on waiting list: 9146
+Number accepting a place on the waiting list: 2086
+Number of wait-listed students admitted: 88
+Data for amherst college stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 6 out of 55
+-------------------------------------
+Amherst College CDS 2022-2023.pdf
+amherst college
+2022-2023
+.pdf
+https://www.amherst.edu/system/files/K%2520Common%2520Data%2520Set%2520Definitions_0.pdf
+Successfully scraped amherst college cds file
+Total first-time, first-year men who applied: None
+Total first-time, first-year women who applied: None
+Total first-time, first-year of another gender who applied: None
+Total first-time, first-year men who were admitted: None
+Total first-time, first-year women who were admitted: None
+Total first-time, first-year of another gender who were admitted: None
+Total full-time, first-time, first-year men who enrolled: None
+Total part-time, first-time, first-year men who enrolled: None
+Total full-time, first-time, first-year women who enrolled: None
+Total part-time, first-time, first-year women who enrolled: None
+Total full-time, first-time, first-year of another gender who enrolled: None
+Total part-time, first-time, first-year of another gender who enrolled: None
+Total first-time, first-year (degree-seeking) who applied: None
+Total first-time, first-year (degree-seeking) who were admitted: None
+Total first-time, first-year (degree-seeking) enrolled: None
+Number of qualified applicants offered a place on waiting list: None
+Number accepting a place on the waiting list: None
+Number of wait-listed students admitted: None
+Data for amherst college stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 7 out of 55
+-------------------------------------
+Aquinas College CDS 2022-2023.pdf
+aquinas college
+2022-2023
+.pdf
+https://www.aquinas.edu/_files/2022-2023%20Aquinas%20College%20Common%20Data%20Set-1.pdf
+Successfully scraped aquinas college cds file
+Total first-time, first-year men who applied: 854
+Total first-time, first-year women who applied: 1262
+Total first-time, first-year of another gender who applied: 
+Total first-time, first-year men who were admitted: 766
+Total first-time, first-year women who were admitted: 1155
+Total first-time, first-year of another gender who were admitted: 
+Total full-time, first-time, first-year men who enrolled: 142
+Total part-time, first-time, first-year men who enrolled: 0
+Total full-time, first-time, first-year women who enrolled: 165
+Total part-time, first-time, first-year women who enrolled: 0
+Total full-time, first-time, first-year of another gender who enrolled: 0
+Total part-time, first-time, first-year of another gender who enrolled: 0
+Total first-time, first-year (degree-seeking) who applied: 2116
+Total first-time, first-year (degree-seeking) who were admitted: 1921
+Total first-time, first-year (degree-seeking) enrolled: None
+Number of qualified applicants offered a place on waiting list: 
+Number accepting a place on the waiting list: 
+Number of wait-listed students admitted: 
+Data for aquinas college stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 8 out of 55
+-------------------------------------
+Arizona State University ASU Campus   Immersion CDS 2022-2023.pdf
+arizona state university asu campus   immersion
+2022-2023
+.pdf
+https://uoia.asu.edu/sites/default/files/2023-04/CDS-2022-23-Campus-Immersion.pdf
+Successfully scraped arizona state university asu campus   immersion cds file
+Total first-time, first-year men who applied: 34073
+Total first-time, first-year women who applied: 34632
+Total first-time, first-year of another gender who applied: 
+Total first-time, first-year men who were admitted: 30036
+Total first-time, first-year women who were admitted: 31628
+Total first-time, first-year of another gender who were admitted: 
+Total full-time, first-time, first-year men who enrolled: 7606
+Total part-time, first-time, first-year men who enrolled: 87
+Total full-time, first-time, first-year women who enrolled: 7345
+Total part-time, first-time, first-year women who enrolled: 83
+Total full-time, first-time, first-year of another gender who enrolled: 
+Total part-time, first-time, first-year of another gender who enrolled: 
+Total first-time, first-year (degree-seeking) who applied: 68789
+Total first-time, first-year (degree-seeking) who were admitted: 61739
+Total first-time, first-year (degree-seeking) enrolled: None
+Number of qualified applicants offered a place on waiting list: 
+Number accepting a place on the waiting list: 
+Number of wait-listed students admitted: 
+Data for arizona state university asu campus   immersion stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 9 out of 55
+-------------------------------------
+Arkansas State University CDS   2022-2023.pdf
+arkansas state university
+2022-2023
+.pdf
+https://www.astate.edu/a/irp/files/cds/CDS_2022-2023.pdf
+Successfully scraped arkansas state university cds file
+Total first-time, first-year men who applied: 2407
+Total first-time, first-year women who applied: 2957
+Total first-time, first-year of another gender who applied: 0
+Total first-time, first-year men who were admitted: 1611
+Total first-time, first-year women who were admitted: 2148
+Total first-time, first-year of another gender who were admitted: 0
+Total full-time, first-time, first-year men who enrolled: 529
+Total part-time, first-time, first-year men who enrolled: 37
+Total full-time, first-time, first-year women who enrolled: 711
+Total part-time, first-time, first-year women who enrolled: 49
+Total full-time, first-time, first-year of another gender who enrolled: 0
+Total part-time, first-time, first-year of another gender who enrolled: 0
+Total first-time, first-year (degree-seeking) who applied: 5364
+Total first-time, first-year (degree-seeking) who were admitted: 3759
+Total first-time, first-year (degree-seeking) enrolled: 1326
+Number of qualified applicants offered a place on waiting list: 
+Number accepting a place on the waiting list: 
+Number of wait-listed students admitted: 
+Data for arkansas state university stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 10 out of 55
+-------------------------------------
+Auburn University at Montgomery CDS   2022-2023.pdf
+auburn university at montgomery
+2022-2023
+.pdf
+https://www.auburn.edu/admissions/Counselor%20Brochure%20Final.pdf
+Successfully scraped auburn university at montgomery cds file
+Total first-time, first-year men who applied: None
+Total first-time, first-year women who applied: None
+Total first-time, first-year of another gender who applied: None
+Total first-time, first-year men who were admitted: None
+Total first-time, first-year women who were admitted: None
+Total first-time, first-year of another gender who were admitted: None
+Total full-time, first-time, first-year men who enrolled: None
+Total part-time, first-time, first-year men who enrolled: None
+Total full-time, first-time, first-year women who enrolled: None
+Total part-time, first-time, first-year women who enrolled: None
+Total full-time, first-time, first-year of another gender who enrolled: None
+Total part-time, first-time, first-year of another gender who enrolled: None
+Total first-time, first-year (degree-seeking) who applied: None
+Total first-time, first-year (degree-seeking) who were admitted: None
+Total first-time, first-year (degree-seeking) enrolled: None
+Number of qualified applicants offered a place on waiting list: None
+Number accepting a place on the waiting list: None
+Number of wait-listed students admitted: None
+Data for auburn university at montgomery stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 11 out of 55
+-------------------------------------
+Auburn University CDS 2022-2023.pdf
+auburn university
+2022-2023
+.pdf
+https://www.auburn.edu/admissions/Counselor%20Brochure%20Final.pdf
+Successfully scraped auburn university cds file
+Total first-time, first-year men who applied: None
+Total first-time, first-year women who applied: None
+Total first-time, first-year of another gender who applied: None
+Total first-time, first-year men who were admitted: None
+Total first-time, first-year women who were admitted: None
+Total first-time, first-year of another gender who were admitted: None
+Total full-time, first-time, first-year men who enrolled: None
+Total part-time, first-time, first-year men who enrolled: None
+Total full-time, first-time, first-year women who enrolled: None
+Total part-time, first-time, first-year women who enrolled: None
+Total full-time, first-time, first-year of another gender who enrolled: None
+Total part-time, first-time, first-year of another gender who enrolled: None
+Total first-time, first-year (degree-seeking) who applied: None
+Total first-time, first-year (degree-seeking) who were admitted: None
+Total first-time, first-year (degree-seeking) enrolled: None
+Number of qualified applicants offered a place on waiting list: None
+Number accepting a place on the waiting list: None
+Number of wait-listed students admitted: None
+Data for auburn university stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 12 out of 55
+-------------------------------------
+Augustana College CDS 2022-2023.pdf
+augustana college
+2022-2023
+.pdf
+https://www.augustana.edu/files/2022-12/CDS_2022-23.pdf
+Successfully scraped augustana college cds file
+Total first-time, first-year men who applied: 3028
+Total first-time, first-year women who applied: 3937
+Total first-time, first-year of another gender who applied: None
+Total first-time, first-year men who were admitted: 1794
+Total first-time, first-year women who were admitted: 2470
+Total first-time, first-year of another gender who were admitted: None
+Total full-time, first-time, first-year men who enrolled: 274
+Total part-time, first-time, first-year men who enrolled: 
+Total full-time, first-time, first-year women who enrolled: 331
+Total part-time, first-time, first-year women who enrolled: 
+Total full-time, first-time, first-year of another gender who enrolled: None
+Total part-time, first-time, first-year of another gender who enrolled: None
+Total first-time, first-year (degree-seeking) who applied: None
+Total first-time, first-year (degree-seeking) who were admitted: None
+Total first-time, first-year (degree-seeking) enrolled: None
+Number of qualified applicants offered a place on waiting list: 458
+Number accepting a place on the waiting list: 4
+Number of wait-listed students admitted: 0
+Data for augustana college stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 13 out of 55
+-------------------------------------
+Austin College CDS 2022-2023.pdf
+austin college
+2022-2023
+.pdf
+https://www.austincollege.edu/wp-content/uploads/2023/02/CDS-2022-2023-2023-02-03.pdf
+Successfully scraped austin college cds file
+Total first-time, first-year men who applied: 2293
+Total first-time, first-year women who applied: 2836
+Total first-time, first-year of another gender who applied: 
+Total first-time, first-year men who were admitted: 1233
+Total first-time, first-year women who were admitted: 1583
+Total first-time, first-year of another gender who were admitted: 
+Total full-time, first-time, first-year men who enrolled: 179
+Total part-time, first-time, first-year men who enrolled: 0
+Total full-time, first-time, first-year women who enrolled: 151
+Total part-time, first-time, first-year women who enrolled: 0
+Total full-time, first-time, first-year of another gender who enrolled: 
+Total part-time, first-time, first-year of another gender who enrolled: 
+Total first-time, first-year (degree-seeking) who applied: 5192
+Total first-time, first-year (degree-seeking) who were admitted: 2823
+Total first-time, first-year (degree-seeking) enrolled: 330
+Number of qualified applicants offered a place on waiting list: 
+Number accepting a place on the waiting list: 
+Number of wait-listed students admitted: 
+Data for austin college stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 14 out of 55
+-------------------------------------
+Babson College CDS 2022-2023.pdf
+babson college
+2022-2023
+.pdf
+https://www.babson.edu/media/babson/assets/rankings/babson-college-common-data-set.pdf
+Successfully scraped babson college cds file
+Total first-time, first-year men who applied: None
+Total first-time, first-year women who applied: None
+Total first-time, first-year of another gender who applied: None
+Total first-time, first-year men who were admitted: None
+Total first-time, first-year women who were admitted: None
+Total first-time, first-year of another gender who were admitted: None
+Total full-time, first-time, first-year men who enrolled: None
+Total part-time, first-time, first-year men who enrolled: None
+Total full-time, first-time, first-year women who enrolled: None
+Total part-time, first-time, first-year women who enrolled: None
+Total full-time, first-time, first-year of another gender who enrolled: None
+Total part-time, first-time, first-year of another gender who enrolled: None
+Total first-time, first-year (degree-seeking) who applied: None
+Total first-time, first-year (degree-seeking) who were admitted: None
+Total first-time, first-year (degree-seeking) enrolled: None
+Number of qualified applicants offered a place on waiting list: 2589
+Number accepting a place on the waiting list: 1171
+Number of wait-listed students admitted: 39
+Data for babson college stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 15 out of 55
+-------------------------------------
+Barnard College CDS 2022-2023.pdf
+barnard college
+2022-2023
+.pdf
+https://barnard.edu/sites/default/files/inline-files/20230622_CommonDataSet_Barnard.pdf
+Successfully scraped barnard college cds file
+Total first-time, first-year men who applied: 
+Total first-time, first-year women who applied: 12009
+Total first-time, first-year of another gender who applied: 
+Total first-time, first-year men who were admitted: 
+Total first-time, first-year women who were admitted: 1056
+Total first-time, first-year of another gender who were admitted: 
+Total full-time, first-time, first-year men who enrolled: 
+Total part-time, first-time, first-year men who enrolled: 
+Total full-time, first-time, first-year women who enrolled: 698
+Total part-time, first-time, first-year women who enrolled: 
+Total full-time, first-time, first-year of another gender who enrolled: 
+Total part-time, first-time, first-year of another gender who enrolled: 
+Total first-time, first-year (degree-seeking) who applied: 12009
+Total first-time, first-year (degree-seeking) who were admitted: 1056
+Total first-time, first-year (degree-seeking) enrolled: 698
+Number of qualified applicants offered a place on waiting list: 2524
+Number accepting a place on the waiting list: 1597
+Number of wait-listed students admitted: 66
+Data for barnard college stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 16 out of 55
+-------------------------------------
+Barton College CDS 2022-2023.pdf
+barton college
+2022-2023
+.pdf
+https://www.barton.edu/wp-content/uploads/2023/02/CDS_2022-2023-as-of-021423.pdf
+Successfully scraped barton college cds file
+Total first-time, first-year men who applied: 935
+Total first-time, first-year women who applied: 1194
+Total first-time, first-year of another gender who applied: None
+Total first-time, first-year men who were admitted: 874
+Total first-time, first-year women who were admitted: 1140
+Total first-time, first-year of another gender who were admitted: None
+Total full-time, first-time, first-year men who enrolled: 175
+Total part-time, first-time, first-year men who enrolled: 1
+Total full-time, first-time, first-year women who enrolled: 124
+Total part-time, first-time, first-year women who enrolled: 0
+Total full-time, first-time, first-year of another gender who enrolled: None
+Total part-time, first-time, first-year of another gender who enrolled: None
+Total first-time, first-year (degree-seeking) who applied: None
+Total first-time, first-year (degree-seeking) who were admitted: None
+Total first-time, first-year (degree-seeking) enrolled: None
+Number of qualified applicants offered a place on waiting list: 
+Number accepting a place on the waiting list: 
+Number of wait-listed students admitted: 
+Data for barton college stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 17 out of 55
+-------------------------------------
+Bates College CDS 2022-2023.pdf
+bates college
+2022-2023
+.pdf
+https://www.bates.edu/research/files/2023/07/CDS_2022-2023.pdf
+Successfully scraped bates college cds file
+Total first-time, first-year men who applied: 3757
+Total first-time, first-year women who applied: 4516
+Total first-time, first-year of another gender who applied: 0
+Total first-time, first-year men who were admitted: 510
+Total first-time, first-year women who were admitted: 627
+Total first-time, first-year of another gender who were admitted: 0
+Total full-time, first-time, first-year men who enrolled: 236
+Total part-time, first-time, first-year men who enrolled: 0
+Total full-time, first-time, first-year women who enrolled: 282
+Total part-time, first-time, first-year women who enrolled: 0
+Total full-time, first-time, first-year of another gender who enrolled: 0
+Total part-time, first-time, first-year of another gender who enrolled: 0
+Total first-time, first-year (degree-seeking) who applied: 8273
+Total first-time, first-year (degree-seeking) who were admitted: 1137
+Total first-time, first-year (degree-seeking) enrolled: 518
+Number of qualified applicants offered a place on waiting list: 2441
+Number accepting a place on the waiting list: 1264
+Number of wait-listed students admitted: 0
+Data for bates college stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 18 out of 55
+-------------------------------------
+Baylor University CDS 2022-2023.pdf
+baylor university
+2022-2023
+.pdf
+https://ir.web.baylor.edu/sites/g/files/ecbvkj1621/files/2023-08/CDS_2022-2023%20-%20updated%20Fin%20Aid%20062923.pdf
+Successfully scraped baylor university cds file
+Total first-time, first-year men who applied: 15404
+Total first-time, first-year women who applied: 25320
+Total first-time, first-year of another gender who applied: None
+Total first-time, first-year men who were admitted: 8006
+Total first-time, first-year women who were admitted: 10691459
+Total first-time, first-year of another gender who were admitted: None
+Total full-time, first-time, first-year men who enrolled: 1365
+Total part-time, first-time, first-year men who enrolled: 5
+Total full-time, first-time, first-year women who enrolled: 1921
+Total part-time, first-time, first-year women who enrolled: 5
+Total full-time, first-time, first-year of another gender who enrolled: None
+Total part-time, first-time, first-year of another gender who enrolled: None
+Total first-time, first-year (degree-seeking) who applied: None
+Total first-time, first-year (degree-seeking) who were admitted: None
+Total first-time, first-year (degree-seeking) enrolled: None
+Number of qualified applicants offered a place on waiting list: 3767
+Number accepting a place on the waiting list: 819
+Number of wait-listed students admitted: 491
+Data for baylor university stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 19 out of 55
+-------------------------------------
+Belmont University CDS 2022-2023.pdf
+belmont university
+2022-2023
+.pdf
+https://www.belmont.edu/oair/_files/CDS_2022-2023.pdf
+Successfully scraped belmont university cds file
+Total first-time, first-year men who applied: 2667
+Total first-time, first-year women who applied: 6496
+Total first-time, first-year of another gender who applied: None
+Total first-time, first-year men who were admitted: 2539
+Total first-time, first-year women who were admitted: 6282
+Total first-time, first-year of another gender who were admitted: None
+Total full-time, first-time, first-year men who enrolled: 607
+Total part-time, first-time, first-year men who enrolled: 3
+Total full-time, first-time, first-year women who enrolled: 1303
+Total part-time, first-time, first-year women who enrolled: 4
+Total full-time, first-time, first-year of another gender who enrolled: None
+Total part-time, first-time, first-year of another gender who enrolled: None
+Total first-time, first-year (degree-seeking) who applied: None
+Total first-time, first-year (degree-seeking) who were admitted: None
+Total first-time, first-year (degree-seeking) enrolled: None
+Number of qualified applicants offered a place on waiting list: 
+Number accepting a place on the waiting list: 
+Number of wait-listed students admitted: 
+Data for belmont university stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 20 out of 55
+-------------------------------------
+Bentley University CDS 2022-2023.pdf
+bentley university
+2022-2023
+.pdf
+https://bentleydownloads.s3.amazonaws.com/general/Bentley+University+Common+Data+Set+2021-22.pdf
+Successfully scraped bentley university cds file
+Total first-time, first-year men who applied: None
+Total first-time, first-year women who applied: None
+Total first-time, first-year of another gender who applied: None
+Total first-time, first-year men who were admitted: None
+Total first-time, first-year women who were admitted: None
+Total first-time, first-year of another gender who were admitted: None
+Total full-time, first-time, first-year men who enrolled: None
+Total part-time, first-time, first-year men who enrolled: None
+Total full-time, first-time, first-year women who enrolled: None
+Total part-time, first-time, first-year women who enrolled: None
+Total full-time, first-time, first-year of another gender who enrolled: None
+Total part-time, first-time, first-year of another gender who enrolled: None
+Total first-time, first-year (degree-seeking) who applied: 9311
+Total first-time, first-year (degree-seeking) who were admitted: 5674
+Total first-time, first-year (degree-seeking) enrolled: None
+Number of qualified applicants offered a place on waiting list: 1587
+Number accepting a place on the waiting list: 454
+Number of wait-listed students admitted: 166
+Data for bentley university stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 21 out of 55
+-------------------------------------
+Biola University CDS 2022-2023.xlsx
+biola university
+2022-2023
+.xlsx
+https://www.ctc.ca.gov/docs/default-source/commission/reports/titleii-2020-2021-annualrprt-appendix.xlsx
+Successfully scraped biola university cds file
+Total first-time, first-year men who applied: None
+Total first-time, first-year women who applied: None
+Total first-time, first-year of another gender who applied: None
+Total first-time, first-year men who were admitted: None
+Total first-time, first-year women who were admitted: None
+Total first-time, first-year of another gender who were admitted: None
+Total full-time, first-time, first-year men who enrolled: None
+Total part-time, first-time, first-year men who enrolled: None
+Total full-time, first-time, first-year women who enrolled: None
+Total part-time, first-time, first-year women who enrolled: None
+Total full-time, first-time, first-year of another gender who enrolled: None
+Total part-time, first-time, first-year of another gender who enrolled: None
+Total first-time, first-year (degree-seeking) who applied: None
+Total first-time, first-year (degree-seeking) who were admitted: None
+Total first-time, first-year (degree-seeking) enrolled: None
+Number of qualified applicants offered a place on waiting list: None
+Number accepting a place on the waiting list: None
+Number of wait-listed students admitted: None
+Data for biola university stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 22 out of 55
+-------------------------------------
+Boston University CDS 2022-2023.pdf
+boston university
+2022-2023
+.pdf
+https://www.bu.edu/asir/files/2023/03/cds-2023.pdf
+Successfully scraped boston university cds file
+Total first-time, first-year men who applied: None
+Total first-time, first-year women who applied: None
+Total first-time, first-year of another gender who applied: None
+Total first-time, first-year men who were admitted: None
+Total first-time, first-year women who were admitted: None
+Total first-time, first-year of another gender who were admitted: None
+Total full-time, first-time, first-year men who enrolled: None
+Total part-time, first-time, first-year men who enrolled: None
+Total full-time, first-time, first-year women who enrolled: None
+Total part-time, first-time, first-year women who enrolled: None
+Total full-time, first-time, first-year of another gender who enrolled: None
+Total part-time, first-time, first-year of another gender who enrolled: None
+Total first-time, first-year (degree-seeking) who applied: None
+Total first-time, first-year (degree-seeking) who were admitted: None
+Total first-time, first-year (degree-seeking) enrolled: None
+Number of qualified applicants offered a place on waiting list: None
+Number accepting a place on the waiting list: None
+Number of wait-listed students admitted: None
+Data for boston university stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 23 out of 55
+-------------------------------------
+Bowdoin College CDS 2022-2023.pdf
+bowdoin college
+2022-2023
+.pdf
+https://www.bowdoin.edu/ir/pdf/common-data-set-2022-23.pdf
+Successfully scraped bowdoin college cds file
+Total first-time, first-year men who applied: 3994
+Total first-time, first-year women who applied: 5382
+Total first-time, first-year of another gender who applied: 0
+Total first-time, first-year men who were admitted: 392
+Total first-time, first-year women who were admitted: 470
+Total first-time, first-year of another gender who were admitted: 0
+Total full-time, first-time, first-year men who enrolled: 232
+Total part-time, first-time, first-year men who enrolled: 0
+Total full-time, first-time, first-year women who enrolled: 276
+Total part-time, first-time, first-year women who enrolled: 0
+Total full-time, first-time, first-year of another gender who enrolled: 0
+Total part-time, first-time, first-year of another gender who enrolled: 0
+Total first-time, first-year (degree-seeking) who applied: 9376
+Total first-time, first-year (degree-seeking) who were admitted: 862
+Total first-time, first-year (degree-seeking) enrolled: 508
+Number of qualified applicants offered a place on waiting list: 
+Number accepting a place on the waiting list: 
+Number of wait-listed students admitted: 10
+Data for bowdoin college stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 24 out of 55
+-------------------------------------
+Bowling Green State University CDS   2022-2023.pdf
+bowling green state university
+2022-2023
+.pdf
+https://www.wku.edu/instres/documents/cds_2022_2023.pdf
+Successfully scraped bowling green state university cds file
+Total first-time, first-year men who applied: None
+Total first-time, first-year women who applied: None
+Total first-time, first-year of another gender who applied: None
+Total first-time, first-year men who were admitted: None
+Total first-time, first-year women who were admitted: None
+Total first-time, first-year of another gender who were admitted: None
+Total full-time, first-time, first-year men who enrolled: None
+Total part-time, first-time, first-year men who enrolled: None
+Total full-time, first-time, first-year women who enrolled: None
+Total part-time, first-time, first-year women who enrolled: None
+Total full-time, first-time, first-year of another gender who enrolled: None
+Total part-time, first-time, first-year of another gender who enrolled: None
+Total first-time, first-year (degree-seeking) who applied: None
+Total first-time, first-year (degree-seeking) who were admitted: None
+Total first-time, first-year (degree-seeking) enrolled: None
+Number of qualified applicants offered a place on waiting list: None
+Number accepting a place on the waiting list: None
+Number of wait-listed students admitted: None
+Data for bowling green state university stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 25 out of 55
+-------------------------------------
+Bradley University CDS 2022-2023.pdf
+bradley university
+2022-2023
+.pdf
+https://www.bradley.edu/offices/academic/institutionaleffectiveness/assets/documents/cds_2022-2023.pdf
+Successfully scraped bradley university cds file
+Total first-time, first-year men who applied: 4621
+Total first-time, first-year women who applied: 6731
+Total first-time, first-year of another gender who applied: 
+Total first-time, first-year men who were admitted: 3343
+Total first-time, first-year women who were admitted: 5187
+Total first-time, first-year of another gender who were admitted: 
+Total full-time, first-time, first-year men who enrolled: 467
+Total part-time, first-time, first-year men who enrolled: 0
+Total full-time, first-time, first-year women who enrolled: 569
+Total part-time, first-time, first-year women who enrolled: 0
+Total full-time, first-time, first-year of another gender who enrolled: 
+Total part-time, first-time, first-year of another gender who enrolled: 
+Total first-time, first-year (degree-seeking) who applied: 11352
+Total first-time, first-year (degree-seeking) who were admitted: 8530
+Total first-time, first-year (degree-seeking) enrolled: 1036
+Number of qualified applicants offered a place on waiting list: 
+Number accepting a place on the waiting list: 
+Number of wait-listed students admitted: 
+Data for bradley university stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 26 out of 55
+-------------------------------------
+Brandeis University CDS   2022-2023.pdf
+brandeis university
+2022-2023
+.pdf
+https://www.brandeis.edu/institutional-research/docs/cds-2022-23.pdf
+Successfully scraped brandeis university cds file
+Total first-time, first-year men who applied: 4222
+Total first-time, first-year women who applied: 5695
+Total first-time, first-year of another gender who applied: 0
+Total first-time, first-year men who were admitted: 1493
+Total first-time, first-year women who were admitted: 2415
+Total first-time, first-year of another gender who were admitted: 0
+Total full-time, first-time, first-year men who enrolled: 438
+Total part-time, first-time, first-year men who enrolled: 0
+Total full-time, first-time, first-year women who enrolled: 548
+Total part-time, first-time, first-year women who enrolled: 0
+Total full-time, first-time, first-year of another gender who enrolled: 0
+Total part-time, first-time, first-year of another gender who enrolled: 0
+Total first-time, first-year (degree-seeking) who applied: 9917
+Total first-time, first-year (degree-seeking) who were admitted: 3908
+Total first-time, first-year (degree-seeking) enrolled: 986
+Number of qualified applicants offered a place on waiting list: 1638
+Number accepting a place on the waiting list: 693
+Number of wait-listed students admitted: 7
+Data for brandeis university stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 27 out of 55
+-------------------------------------
+Brown University CDS 2022-2023.pdf
+brown university
+2022-2023
+.pdf
+https://oir.brown.edu/sites/default/files/2020-04/CDS_2022_2023.pdf
+Successfully scraped brown university cds file
+Total first-time, first-year men who applied: 18939
+Total first-time, first-year women who applied: 31710
+Total first-time, first-year of another gender who applied: None
+Total first-time, first-year men who were admitted: 1275
+Total first-time, first-year women who were admitted: 1287
+Total first-time, first-year of another gender who were admitted: None
+Total full-time, first-time, first-year men who enrolled: 828
+Total part-time, first-time, first-year men who enrolled: 
+Total full-time, first-time, first-year women who enrolled: 889
+Total part-time, first-time, first-year women who enrolled: 
+Total full-time, first-time, first-year of another gender who enrolled: None
+Total part-time, first-time, first-year of another gender who enrolled: None
+Total first-time, first-year (degree-seeking) who applied: 50649
+Total first-time, first-year (degree-seeking) who were admitted: 2562
+Total first-time, first-year (degree-seeking) enrolled: None
+Number of qualified applicants offered a place on waiting list: 
+Number accepting a place on the waiting list: 
+Number of wait-listed students admitted: 15
+Data for brown university stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 28 out of 55
+-------------------------------------
+Bryan Mawr College CDS 2022-2023.pdf
+bryan mawr college
+2022-2023
+.pdf
+https://www.brynmawr.edu/sites/default/files/media/documents/2023-03/CDS_2022-2023-2.pdf
+Successfully scraped bryan mawr college cds file
+Total first-time, first-year men who applied: 
+Total first-time, first-year women who applied: 3594
+Total first-time, first-year of another gender who applied: None
+Total first-time, first-year men who were admitted: 
+Total first-time, first-year women who were admitted: 1105
+Total first-time, first-year of another gender who were admitted: None
+Total full-time, first-time, first-year men who enrolled: 
+Total part-time, first-time, first-year men who enrolled: 
+Total full-time, first-time, first-year women who enrolled: 396
+Total part-time, first-time, first-year women who enrolled: 0
+Total full-time, first-time, first-year of another gender who enrolled: None
+Total part-time, first-time, first-year of another gender who enrolled: None
+Total first-time, first-year (degree-seeking) who applied: None
+Total first-time, first-year (degree-seeking) who were admitted: None
+Total first-time, first-year (degree-seeking) enrolled: None
+Number of qualified applicants offered a place on waiting list: 
+Number accepting a place on the waiting list: 
+Number of wait-listed students admitted: 
+Data for bryan mawr college stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 29 out of 55
+-------------------------------------
+Bucknell University CDS   2022-2023.pdf
+bucknell university
+2022-2023
+.pdf
+https://www.bucknell.edu/sites/default/files/institutional-research/commondataset2022-23.pdf
+Successfully scraped bucknell university cds file
+Total first-time, first-year men who applied: 5801
+Total first-time, first-year women who applied: 5906
+Total first-time, first-year of another gender who applied: None
+Total first-time, first-year men who were admitted: 1717
+Total first-time, first-year women who were admitted: 2094
+Total first-time, first-year of another gender who were admitted: None
+Total full-time, first-time, first-year men who enrolled: 503
+Total part-time, first-time, first-year men who enrolled: 
+Total full-time, first-time, first-year women who enrolled: 531
+Total part-time, first-time, first-year women who enrolled: 
+Total full-time, first-time, first-year of another gender who enrolled: None
+Total part-time, first-time, first-year of another gender who enrolled: None
+Total first-time, first-year (degree-seeking) who applied: None
+Total first-time, first-year (degree-seeking) who were admitted: None
+Total first-time, first-year (degree-seeking) enrolled: None
+Number of qualified applicants offered a place on waiting list: 3463
+Number accepting a place on the waiting list: 1544
+Number of wait-listed students admitted: 10
+Data for bucknell university stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 30 out of 55
+-------------------------------------
+Cal Poly-Pomona CDS 2022-2023.pdf
+cal polypomona
+2022-2023
+.pdf
+https://www.cpp.edu/data/documents/cpp-facts/cds2022.pdf
+Successfully scraped cal polypomona cds file
+Total first-time, first-year men who applied: 25431
+Total first-time, first-year women who applied: 24110
+Total first-time, first-year of another gender who applied: 180
+Total first-time, first-year men who were admitted: 12291
+Total first-time, first-year women who were admitted: 15049
+Total first-time, first-year of another gender who were admitted: 99
+Total full-time, first-time, first-year men who enrolled: 1976
+Total part-time, first-time, first-year men who enrolled: 44
+Total full-time, first-time, first-year women who enrolled: 1582
+Total part-time, first-time, first-year women who enrolled: 35
+Total full-time, first-time, first-year of another gender who enrolled: 18
+Total part-time, first-time, first-year of another gender who enrolled: 0
+Total first-time, first-year (degree-seeking) who applied: 49721
+Total first-time, first-year (degree-seeking) who were admitted: 27439
+Total first-time, first-year (degree-seeking) enrolled: 3655
+Number of qualified applicants offered a place on waiting list: 10742
+Number accepting a place on the waiting list: 4468
+Number of wait-listed students admitted: 381
+Data for cal polypomona stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 31 out of 55
+-------------------------------------
+Cal Poly-San Luis Obispo CDS   2022-2023.pdf
+cal polysan luis obispo
+2022-2023
+.pdf
+https://content-calpoly-edu.s3.amazonaws.com/ir/1/images/CDS_2019-2020%20Final%203.pdf
+Successfully scraped cal polysan luis obispo cds file
+Total first-time, first-year men who applied: None
+Total first-time, first-year women who applied: None
+Total first-time, first-year of another gender who applied: None
+Total first-time, first-year men who were admitted: None
+Total first-time, first-year women who were admitted: None
+Total first-time, first-year of another gender who were admitted: None
+Total full-time, first-time, first-year men who enrolled: None
+Total part-time, first-time, first-year men who enrolled: None
+Total full-time, first-time, first-year women who enrolled: None
+Total part-time, first-time, first-year women who enrolled: None
+Total full-time, first-time, first-year of another gender who enrolled: None
+Total part-time, first-time, first-year of another gender who enrolled: None
+Total first-time, first-year (degree-seeking) who applied: None
+Total first-time, first-year (degree-seeking) who were admitted: None
+Total first-time, first-year (degree-seeking) enrolled: None
+Number of qualified applicants offered a place on waiting list: 4976
+Number accepting a place on the waiting list: 
+Number of wait-listed students admitted: 67
+Data for cal polysan luis obispo stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 32 out of 55
+-------------------------------------
+California Baptist University CDS   2022-2023.pdf
+california baptist university
+2022-2023
+.pdf
+https://ir.ucr.edu/sites/default/files/2023-03/cds-2022-2023.pdf
+Successfully scraped california baptist university cds file
+Total first-time, first-year men who applied: 25033
+Total first-time, first-year women who applied: 27891
+Total first-time, first-year of another gender who applied: 863
+Total first-time, first-year men who were admitted: 15996
+Total first-time, first-year women who were admitted: 20580
+Total first-time, first-year of another gender who were admitted: 587
+Total full-time, first-time, first-year men who enrolled: 2533
+Total part-time, first-time, first-year men who enrolled: 24
+Total full-time, first-time, first-year women who enrolled: 2811
+Total part-time, first-time, first-year women who enrolled: 25
+Total full-time, first-time, first-year of another gender who enrolled: 117
+Total part-time, first-time, first-year of another gender who enrolled: 3
+Total first-time, first-year (degree-seeking) who applied: 54685
+Total first-time, first-year (degree-seeking) who were admitted: 37853
+Total first-time, first-year (degree-seeking) enrolled: 5574
+Number of qualified applicants offered a place on waiting list: 11882
+Number accepting a place on the waiting list: 5769
+Number of wait-listed students admitted: 2282
+Data for california baptist university stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 33 out of 55
+-------------------------------------
+California Institute of Technology   (Caltech) CDS 2022-2023.pdf
+california institute of technology   caltech
+2022-2023
+.pdf
+https://iro.caltech.edu/documents/25199/Caltech_Common_Data_Set_2022-23_Published_June_2023_v1.pdf
+Successfully scraped california institute of technology   caltech cds file
+Total first-time, first-year men who applied: 11352
+Total first-time, first-year women who applied: 5274
+Total first-time, first-year of another gender who applied: None
+Total first-time, first-year men who were admitted: 211
+Total first-time, first-year women who were admitted: 237
+Total first-time, first-year of another gender who were admitted: 0
+Total full-time, first-time, first-year men who enrolled: 116
+Total part-time, first-time, first-year men who enrolled: 0
+Total full-time, first-time, first-year women who enrolled: 108
+Total part-time, first-time, first-year women who enrolled: 0
+Total full-time, first-time, first-year of another gender who enrolled: None
+Total part-time, first-time, first-year of another gender who enrolled: None
+Total first-time, first-year (degree-seeking) who applied: 16626
+Total first-time, first-year (degree-seeking) who were admitted: 448
+Total first-time, first-year (degree-seeking) enrolled: 224
+Number of qualified applicants offered a place on waiting list: 195
+Number accepting a place on the waiting list: 167
+Number of wait-listed students admitted: 1
+Data for california institute of technology   caltech stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 34 out of 55
+-------------------------------------
+California Lutheran University CDS   2022-2023.pdf
+california lutheran university
+2022-2023
+.pdf
+https://www.shu.edu/documents/2021-22_Data_Trends.pdf
+Successfully scraped california lutheran university cds file
+Total first-time, first-year men who applied: None
+Total first-time, first-year women who applied: None
+Total first-time, first-year of another gender who applied: None
+Total first-time, first-year men who were admitted: None
+Total first-time, first-year women who were admitted: None
+Total first-time, first-year of another gender who were admitted: None
+Total full-time, first-time, first-year men who enrolled: None
+Total part-time, first-time, first-year men who enrolled: None
+Total full-time, first-time, first-year women who enrolled: None
+Total part-time, first-time, first-year women who enrolled: None
+Total full-time, first-time, first-year of another gender who enrolled: None
+Total part-time, first-time, first-year of another gender who enrolled: None
+Total first-time, first-year (degree-seeking) who applied: None
+Total first-time, first-year (degree-seeking) who were admitted: None
+Total first-time, first-year (degree-seeking) enrolled: None
+Number of qualified applicants offered a place on waiting list: None
+Number accepting a place on the waiting list: None
+Number of wait-listed students admitted: None
+Data for california lutheran university stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 35 out of 55
+-------------------------------------
+California State University   CSU-Chico CDS 2022-2023.pdf
+california state university   csuchico
+2022-2023
+.pdf
+https://www.csuchico.edu/ir/_assets/documents/cds-2023.pdf
+Successfully scraped california state university   csuchico cds file
+Total first-time, first-year men who applied: 9365
+Total first-time, first-year women who applied: 12661
+Total first-time, first-year of another gender who applied: 111
+Total first-time, first-year men who were admitted: 8446
+Total first-time, first-year women who were admitted: 11788
+Total first-time, first-year of another gender who were admitted: 90
+Total full-time, first-time, first-year men who enrolled: 913
+Total part-time, first-time, first-year men who enrolled: 20
+Total full-time, first-time, first-year women who enrolled: 1050
+Total part-time, first-time, first-year women who enrolled: 30
+Total full-time, first-time, first-year of another gender who enrolled: 8
+Total part-time, first-time, first-year of another gender who enrolled: 0
+Total first-time, first-year (degree-seeking) who applied: 22137
+Total first-time, first-year (degree-seeking) who were admitted: 20324
+Total first-time, first-year (degree-seeking) enrolled: 2021
+Number of qualified applicants offered a place on waiting list: 
+Number accepting a place on the waiting list: 
+Number of wait-listed students admitted: 
+Data for california state university   csuchico stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 36 out of 55
+-------------------------------------
+California State University CSU-San   Bernardino CDS 2022-2023.pdf
+california state university csusan   bernardino
+2022-2023
+.pdf
+https://www.csusb.edu/sites/default/files/CDS_2022-2023_1.pdf
+Successfully scraped california state university csusan   bernardino cds file
+Total first-time, first-year men who applied: 6449
+Total first-time, first-year women who applied: 9132
+Total first-time, first-year of another gender who applied: 0
+Total first-time, first-year men who were admitted: 5715
+Total first-time, first-year women who were admitted: 8404
+Total first-time, first-year of another gender who were admitted: 0
+Total full-time, first-time, first-year men who enrolled: 918
+Total part-time, first-time, first-year men who enrolled: 40
+Total full-time, first-time, first-year women who enrolled: 1318
+Total part-time, first-time, first-year women who enrolled: 48
+Total full-time, first-time, first-year of another gender who enrolled: 0
+Total part-time, first-time, first-year of another gender who enrolled: 0
+Total first-time, first-year (degree-seeking) who applied: 15581
+Total first-time, first-year (degree-seeking) who were admitted: 14119
+Total first-time, first-year (degree-seeking) enrolled: 2324
+Number of qualified applicants offered a place on waiting list: 
+Number accepting a place on the waiting list: 
+Number of wait-listed students admitted: 
+Data for california state university csusan   bernardino stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 37 out of 55
+-------------------------------------
+California State University CSU-San   Marcos CDS 2022-2023.xlsx
+california state university csusan   marcos
+2022-2023
+.xlsx
+https://www.csusm.edu/ipa/cds-files/cds-doc/cds_2021-22.xlsx
+Successfully scraped california state university csusan   marcos cds file
+Total first-time, first-year men who applied: None
+Total first-time, first-year women who applied: None
+Total first-time, first-year of another gender who applied: None
+Total first-time, first-year men who were admitted: None
+Total first-time, first-year women who were admitted: None
+Total first-time, first-year of another gender who were admitted: None
+Total full-time, first-time, first-year men who enrolled: None
+Total part-time, first-time, first-year men who enrolled: None
+Total full-time, first-time, first-year women who enrolled: None
+Total part-time, first-time, first-year women who enrolled: None
+Total full-time, first-time, first-year of another gender who enrolled: None
+Total part-time, first-time, first-year of another gender who enrolled: None
+Total first-time, first-year (degree-seeking) who applied: 13986
+Total first-time, first-year (degree-seeking) who were admitted: 13049
+Total first-time, first-year (degree-seeking) enrolled: None
+Number of qualified applicants offered a place on waiting list: 
+Number accepting a place on the waiting list: 
+Number of wait-listed students admitted: 
+Data for california state university csusan   marcos stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 38 out of 55
+-------------------------------------
+California State   University-Sacramento State CDS 2022-2023.pdf
+california state   universitysacramento state
+2022-2023
+.pdf
+https://www.csus.edu/president/institutional-research-effectiveness-planning/common-data-set/cds_2021-2022-final.pdf
+Successfully scraped california state   universitysacramento state cds file
+Total first-time, first-year men who applied: None
+Total first-time, first-year women who applied: None
+Total first-time, first-year of another gender who applied: None
+Total first-time, first-year men who were admitted: None
+Total first-time, first-year women who were admitted: None
+Total first-time, first-year of another gender who were admitted: None
+Total full-time, first-time, first-year men who enrolled: None
+Total part-time, first-time, first-year men who enrolled: None
+Total full-time, first-time, first-year women who enrolled: None
+Total part-time, first-time, first-year women who enrolled: None
+Total full-time, first-time, first-year of another gender who enrolled: None
+Total part-time, first-time, first-year of another gender who enrolled: None
+Total first-time, first-year (degree-seeking) who applied: 22653
+Total first-time, first-year (degree-seeking) who were admitted: 21238
+Total first-time, first-year (degree-seeking) enrolled: None
+Number of qualified applicants offered a place on waiting list: 0
+Number accepting a place on the waiting list: 0
+Number of wait-listed students admitted: 0
+Data for california state   universitysacramento state stored in Firestore
+PDF/Excel file downloaded and data extracted successfully! 39 out of 55
